@@ -4,6 +4,7 @@ H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
 
 MIN_GAP = 0.05             # only bet if odds differ by 5+ points
+MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 25            # mana per bet
 MAX_PER_MARKET = 250       # stop betting on a market after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
@@ -93,7 +94,15 @@ def check(e):
         print("  cap reached:", round(used), "mana")
         return
     outcome = "YES" if target > current else "NO"
-    limit = min(max(round(target, 2), 0.01), 0.99)
+    if outcome == "YES":
+        limit = target - MARGIN
+        if limit <= current:
+            return
+    else:
+        limit = target + MARGIN
+        if limit >= current:
+            return
+    limit = min(max(round(limit, 3), 0.001), 0.999)
     r = requests.post(f"{MANIFOLD}/bet", headers=H, json={
         "contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
         "limitProb": limit,
