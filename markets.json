@@ -120,7 +120,10 @@
     {"manifold": "who-will-win-big-brother-28", "answer": "Devens", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Taylor", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Dee", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
-  {"manifold": "who-will-win-big-brother-28", "answer": "Drew", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"}
+  {"manifold": "who-will-win-big-brother-28", "answer": "Drew", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
+    {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Republicans", "source": "kalshi", "id": "GOVPARTYVT-26-R"},
+  {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Democrats", "source": "kalshi", "id": "GOVPARTYVT-26-D"}
+
 
 
 
