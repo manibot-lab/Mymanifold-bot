@@ -65,7 +65,9 @@
   {"manifold": "which-companies-will-officially-ann", "answer": "Deel", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "OpenAI", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Databricks", "source": "kalshi_event", "id": "KXIPO-26"},
-  {"manifold": "which-companies-will-officially-ann", "answer": "Anduril", "source": "kalshi_event", "id": "KXIPO-26"}
+  {"manifold": "which-companies-will-officially-ann", "answer": "Anduril", "source": "kalshi_event", "id": "KXIPO-26"},
+    {"manifold": "bitcoin-87500-in-september-2026", "source": "kalshi_event", "id": "KXBTCMAXMON-BTC-26SEP30", "source_answer": "$87,500"}
+
 
  
 ]
