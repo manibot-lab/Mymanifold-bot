@@ -114,7 +114,10 @@
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Raiders beat Saints", "source": "kalshi", "id": "KXNFLGAME-26SEP27LVNO-LV"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Ravens beat Cowboys", "source": "kalshi", "id": "KXNFLGAME-26SEP27BALDAL-BAL"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Rams beat Broncos", "source": "kalshi", "id": "KXNFLGAME-26SEP27LARDEN-LAR"},
-  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Eagles beat Bears", "source": "kalshi", "id": "KXNFLGAME-26SEP28PHICHI-PHI"}
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Eagles beat Bears", "source": "kalshi", "id": "KXNFLGAME-26SEP28PHICHI-PHI"},
+    {"manifold": "2026-ohio-governor-election-winner", "answer": "Amy Acton (D)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Amy Acton"},
+  {"manifold": "2026-ohio-governor-election-winner", "answer": "Vivek Ramaswamy (R)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Vivek Ramaswamy"}
+
 
 
 
