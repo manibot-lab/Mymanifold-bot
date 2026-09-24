@@ -88,7 +88,16 @@
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "19", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "20", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "21", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
-    {"manifold": "will-anthropic-have-the-largest-ipo", "answer": "No [Anthropic does not IPO in 2026]", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true}
+    {"manifold": "will-anthropic-have-the-largest-ipo", "answer": "No [Anthropic does not IPO in 2026]", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true},
+    {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "October 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
+  {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "November 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
+  {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "December 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
+  {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "Does not ipo in 2026", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true},
+  {"manifold": "will-anthropic-ipo-by", "answer": "September 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "September 30, 2026"},
+  {"manifold": "will-anthropic-ipo-by", "answer": "October 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "October 31, 2026"},
+  {"manifold": "will-anthropic-ipo-by", "answer": "November 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "November 30, 2026"},
+  {"manifold": "will-anthropic-ipo-by", "answer": "December 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"}
+
 
 
 
@@ -100,3 +109,4 @@
 
  
 ]
+
