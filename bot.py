@@ -1,4 +1,4 @@
-import os, json, requests
+import os, json, time, requests
 
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
@@ -57,55 +57,4 @@ def kalshi(ticker):
     if m.get("status") not in ("open", "active"):
         raise Skip("Kalshi market not open")
     vol = num(m, "volume_fp", "volume") or 0
-    if vol < MIN_KALSHI_VOLUME:
-        raise Skip(f"low volume ({vol:.0f})")
-    bid = kalshi_price(m, "yes_bid")
-    ask = kalshi_price(m, "yes_ask")
-    if not bid or not ask:
-        raise Skip("no two-sided quotes")
-    if ask - bid > MAX_KALSHI_SPREAD + 1e-9:
-        raise Skip(f"wide spread ({ask - bid:.2f})")
-    return (bid + ask) / 2
-
-SOURCES = {"polymarket": polymarket, "kalshi": kalshi}
-
-ME = requests.get(f"{MANIFOLD}/me", headers=H, timeout=30).json()["id"]
-
-def spent(contract_id):
-    r = requests.get(f"{MANIFOLD}/bets",
-                     params={"userId": ME, "contractId": contract_id,
-                             "limit": 1000}, timeout=30)
-    r.raise_for_status()
-    return sum(b.get("amount", 0) for b in r.json())
-
-def check(e):
-    target = SOURCES[e["source"]](e["id"])
-    m = requests.get(f"{MANIFOLD}/slug/{e['manifold']}", timeout=30).json()
-    if m.get("outcomeType") != "BINARY" or m.get("isResolved"):
-        raise Skip("Manifold market not binary or already resolved")
-    current = m["probability"]
-    print(e["manifold"], "manifold", round(current, 3),
-          "source", round(target, 3))
-    if abs(target - current) < MIN_GAP:
-        return
-    used = spent(m["id"])
-    if used + BET_AMOUNT > MAX_PER_MARKET:
-        print("  cap reached:", round(used), "mana")
-        return
-    outcome = "YES" if target > current else "NO"
-    limit = min(max(round(target, 2), 0.01), 0.99)
-    r = requests.post(f"{MANIFOLD}/bet", headers=H, json={
-        "contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
-        "limitProb": limit, "expiresMillisDelta": 600000}, timeout=30)
-    print("  bet", outcome, r.status_code, r.text[:150])
-
-with open("markets.json") as f:
-    entries = json.load(f)
-
-for e in entries:
-    try:
-        check(e)
-    except Skip as s:
-        print("skip", e["manifold"], "-", s)
-    except Exception as err:
-        print("error on", e, err)
+    if vol 
