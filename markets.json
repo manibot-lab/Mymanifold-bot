@@ -87,7 +87,9 @@
     {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "18", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "19", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "20", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
-  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "21", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"}
+  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "21", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
+    {"manifold": "will-anthropic-have-the-largest-ipo", "answer": "No [Anthropic does not IPO in 2026]", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true}
+
 
 
 
