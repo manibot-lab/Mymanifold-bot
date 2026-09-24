@@ -7,11 +7,11 @@ POLY = "https://gamma-api.polymarket.com"
 
 MIN_GAP = 0.03             # only bet if odds differ by 5+ points
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
-BET_AMOUNT = 300           # mana per bet
+BET_AMOUNT = 50          # mana per bet
 MAX_PER_MARKET = 2500       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
 MIN_KALSHI_VOLUME = 100   # Kalshi contracts traded
-MAX_KALSHI_SPREAD = 0.07   # skip if bid/ask are wider than 5 points
+MAX_KALSHI_SPREAD = 0.05  # skip if bid/ask are wider than 5 points
 
 class Skip(Exception):
     pass
