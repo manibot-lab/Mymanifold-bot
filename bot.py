@@ -10,8 +10,8 @@ POLY = "https://gamma-api.polymarket.com"
 MIN_GAP = 0.03            # only bet if odds differ by 5+ points
 MAX_GAP = 1.0              # skip if odds differ by more than this
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
-BET_AMOUNT = 125          # mana per bet
-MAX_PER_MARKET = 1250       # stop betting on a market/answer after this much
+BET_AMOUNT = 125           # mana per bet
+MAX_PER_MARKET = 1500       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
 MIN_KALSHI_VOLUME = 1000   # Kalshi contracts traded
 MAX_KALSHI_SPREAD = 0.05   # skip if bid/ask are wider than 5 points
@@ -164,8 +164,8 @@ def check(e, label):
         raise Skip("Manifold market already resolved")
     answer_id = None
     if answer:
-        if m.get("outcomeType") != "MULTIPLE_CHOICE":
-            raise Skip("Manifold market is not multiple choice")
+        if not m.get("answers"):
+            raise Skip("Manifold market has no answers (is it yes/no?)")
         a = pick(m.get("answers", []), ["text"], answer,
                  lambda x: x.get("text"))
         if a.get("resolution"):
