@@ -1,17 +1,20 @@
-import os, json, time, math, requests
+import os, json, time, math, unicodedata, requests
 
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
 KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
 POLY = "https://gamma-api.polymarket.com"
 
-MIN_GAP = 0.03             # only bet if odds differ by 5+ points
+# Defaults. Any entry in markets.json can override min_gap, max_gap,
+# margin (in percentage points), bet and cap (in mana).
+MIN_GAP = 0.03            # only bet if odds differ by 5+ points
+MAX_GAP = 1.0              # skip if odds differ by more than this
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
-BET_AMOUNT = 50          # mana per bet
-MAX_PER_MARKET = 2500       # stop betting on a market/answer after this much
+BET_AMOUNT = 25            # mana per bet
+MAX_PER_MARKET = 250       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
-MIN_KALSHI_VOLUME = 100   # Kalshi contracts traded
-MAX_KALSHI_SPREAD = 0.05  # skip if bid/ask are wider than 5 points
+MIN_KALSHI_VOLUME = 1000   # Kalshi contracts traded
+MAX_KALSHI_SPREAD = 0.05   # skip if bid/ask are wider than 5 points
 
 class Skip(Exception):
     pass
@@ -27,7 +30,9 @@ def num(m, *names):
     return None
 
 def norm(s):
-    return " ".join(str(s or "").lower().split())
+    s = unicodedata.normalize("NFKD", str(s or ""))
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return " ".join(s.lower().split())
 
 def pick(items, fields, wanted, label):
     w = norm(wanted)
@@ -138,8 +143,19 @@ def spent(contract_id, answer_id=None):
     return sum(b.get("amount", 0) for b in bets)
 
 def check(e, label):
+    # per-entry overrides (gaps and margin are in percentage points)
+    min_gap = e.get("min_gap", MIN_GAP * 100) / 100
+    max_gap = e.get("max_gap", MAX_GAP * 100) / 100
+    margin = e.get("margin", MARGIN * 100) / 100
+    bet = e.get("bet", BET_AMOUNT)
+    cap = e.get("cap", MAX_PER_MARKET)
+
+    # "answer" = the answer's name on Manifold (multi-answer markets).
+    # "source_answer" = the name to look for on Kalshi/Polymarket, if it
+    # differs (or if the Manifold market is a plain yes/no).
     answer = e.get("answer")
-    target = SOURCES[e["source"]](e["id"], answer)
+    src_answer = e.get("source_answer", answer)
+    target = SOURCES[e["source"]](e["id"], src_answer)
     m = requests.get(f"{MANIFOLD}/slug/{e['manifold']}", timeout=30).json()
     if m.get("isResolved"):
         raise Skip("Manifold market already resolved")
@@ -160,25 +176,29 @@ def check(e, label):
             raise Skip("Manifold market is not yes/no")
         current = m["probability"]
     print(label, "manifold", round(current, 3), "source", round(target, 3))
-    if abs(target - current) < MIN_GAP:
+    gap = abs(target - current)
+    if gap < min_gap:
+        return
+    if gap > max_gap:
+        print(f"  skip: gap is {gap * 100:.1f} points, over max_gap")
         return
     used = spent(m["id"], answer_id)
-    if used + BET_AMOUNT > MAX_PER_MARKET:
+    if used + bet > cap:
         print("  cap reached:", round(used), "mana")
         return
     outcome = "YES" if target > current else "NO"
     # Manifold only accepts whole-percent limits, so round in the safe
-    # direction (always at least MARGIN short of the source's odds)
+    # direction (always at least the margin short of the source's odds)
     if outcome == "YES":
-        limit = math.floor(round((target - MARGIN) * 100, 6)) / 100
+        limit = math.floor(round((target - margin) * 100, 6)) / 100
         if limit <= current:
             return
     else:
-        limit = math.ceil(round((target + MARGIN) * 100, 6)) / 100
+        limit = math.ceil(round((target + margin) * 100, 6)) / 100
         if limit >= current:
             return
     limit = min(max(limit, 0.01), 0.99)
-    body = {"contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
+    body = {"contractId": m["id"], "amount": bet, "outcome": outcome,
             "limitProb": limit,
             "expiresAt": int(time.time() * 1000) + 60000}
     if answer_id:
