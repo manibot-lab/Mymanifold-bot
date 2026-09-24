@@ -76,7 +76,10 @@
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Project Hail Mary", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Wild Horse Nine", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Social Reckoning", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
-  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Fjord", "source": "kalshi_event", "id": "KXOSCARPIC-27"}
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Fjord", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+    {"manifold": "will-project-hail-mary-be-nominated", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "Project Hail Mary"},
+  {"manifold": "will-obsession-be-nominated-for-bes", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "Obsession"}
+
 
 
 
