@@ -97,7 +97,25 @@
   {"manifold": "will-anthropic-ipo-by", "answer": "October 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "October 31, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "November 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "November 30, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "December 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
-    {"manifold": "when-will-anthropic-ipo", "answer": "2026 Q4", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"}
+    {"manifold": "when-will-anthropic-ipo", "answer": "2026 Q4", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
+    {"manifold": "will-anthropic-or-openai-ipo-first", "source": "kalshi_event", "id": "KXOAIANTH-40", "source_answer": "Anthropic"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Falcons beat Packers", "source": "kalshi", "id": "KXNFLGAME-26SEP24ATLGB-ATL"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Chargers beat Bills", "source": "kalshi", "id": "KXNFLGAME-26SEP27LACBUF-LAC"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Panthers beat Browns", "source": "kalshi", "id": "KXNFLGAME-26SEP27CARCLE-CAR"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Jets beat Lions", "source": "kalshi", "id": "KXNFLGAME-26SEP27NYJDET-NYJ"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Texans beat Colts", "source": "kalshi", "id": "KXNFLGAME-26SEP27HOUIND-HOU"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Patriots beat Jaguars", "source": "kalshi", "id": "KXNFLGAME-26SEP27NEJAC-NE"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Chiefs beat Dolphins", "source": "kalshi", "id": "KXNFLGAME-26SEP27KCMIA-KC"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Titans beat Giants", "source": "kalshi", "id": "KXNFLGAME-26SEP27TENNYG-TEN"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Bengals beat Steelers", "source": "kalshi", "id": "KXNFLGAME-26SEP27CINPIT-CIN"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Seahawks beat Commanders", "source": "kalshi", "id": "KXNFLGAME-26SEP27SEAWAS-SEA"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Cardinals beat 49ers", "source": "kalshi", "id": "KXNFLGAME-26SEP27ARISF-ARI"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Vikings beat Buccaneers", "source": "kalshi", "id": "KXNFLGAME-26SEP27MINTB-MIN"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Raiders beat Saints", "source": "kalshi", "id": "KXNFLGAME-26SEP27LVNO-LV"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Ravens beat Cowboys", "source": "kalshi", "id": "KXNFLGAME-26SEP27BALDAL-BAL"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Rams beat Broncos", "source": "kalshi", "id": "KXNFLGAME-26SEP27LARDEN-LAR"},
+  {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Eagles beat Bears", "source": "kalshi", "id": "KXNFLGAME-26SEP28PHICHI-PHI"}
+
 
 
 
