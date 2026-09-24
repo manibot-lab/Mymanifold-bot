@@ -3,7 +3,7 @@ import os, json, time, requests
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
 
-MIN_GAP = 0.05             # only bet if odds differ by 5+ points
+MIN_GAP = 0.03             # only bet if odds differ by 3+ points
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 25            # mana per bet
 MAX_PER_MARKET = 250       # stop betting on a market after this much
