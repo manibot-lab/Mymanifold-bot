@@ -117,6 +117,11 @@
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Eagles beat Bears", "source": "kalshi", "id": "KXNFLGAME-26SEP28PHICHI-PHI"},
     {"manifold": "2026-ohio-governor-election-winner", "answer": "Amy Acton (D)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Amy Acton"},
   {"manifold": "2026-ohio-governor-election-winner", "answer": "Vivek Ramaswamy (R)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Vivek Ramaswamy"}
+    {"manifold": "who-will-win-big-brother-28", "answer": "Devens", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
+  {"manifold": "who-will-win-big-brother-28", "answer": "Taylor", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
+  {"manifold": "who-will-win-big-brother-28", "answer": "Dee", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
+  {"manifold": "who-will-win-big-brother-28", "answer": "Drew", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"}
+
 
 
 
