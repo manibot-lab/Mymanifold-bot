@@ -10,8 +10,8 @@ POLY = "https://gamma-api.polymarket.com"
 MIN_GAP = 0.03            # only bet if odds differ by 5+ points
 MAX_GAP = 1.0              # skip if odds differ by more than this
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
-BET_AMOUNT = 75           # mana per bet
-MAX_PER_MARKET = 1000       # stop betting on a market/answer after this much
+BET_AMOUNT = 125          # mana per bet
+MAX_PER_MARKET = 1250       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
 MIN_KALSHI_VOLUME = 1000   # Kalshi contracts traded
 MAX_KALSHI_SPREAD = 0.05   # skip if bid/ask are wider than 5 points
@@ -153,9 +153,12 @@ def check(e, label):
     # "answer" = the answer's name on Manifold (multi-answer markets).
     # "source_answer" = the name to look for on Kalshi/Polymarket, if it
     # differs (or if the Manifold market is a plain yes/no).
+    # "invert" = true means use 100% minus the source's price.
     answer = e.get("answer")
     src_answer = e.get("source_answer", answer)
     target = SOURCES[e["source"]](e["id"], src_answer)
+    if e.get("invert"):
+        target = 1 - target
     m = requests.get(f"{MANIFOLD}/slug/{e['manifold']}", timeout=30).json()
     if m.get("isResolved"):
         raise Skip("Manifold market already resolved")
