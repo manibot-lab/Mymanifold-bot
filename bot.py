@@ -1,11 +1,11 @@
-import os, json, time, requests
+import os, json, time, math, requests
 
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
 KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
 POLY = "https://gamma-api.polymarket.com"
 
-MIN_GAP = 0.03            # only bet if odds differ by 3+ points
+MIN_GAP = 0.03             # only bet if odds differ by 5+ points
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 25            # mana per bet
 MAX_PER_MARKET = 250       # stop betting on a market/answer after this much
@@ -167,22 +167,31 @@ def check(e, label):
         print("  cap reached:", round(used), "mana")
         return
     outcome = "YES" if target > current else "NO"
+    # Manifold only accepts whole-percent limits, so round in the safe
+    # direction (always at least MARGIN short of the source's odds)
     if outcome == "YES":
-        limit = target - MARGIN
+        limit = math.floor(round((target - MARGIN) * 100, 6)) / 100
         if limit <= current:
             return
     else:
-        limit = target + MARGIN
+        limit = math.ceil(round((target + MARGIN) * 100, 6)) / 100
         if limit >= current:
             return
-    limit = min(max(round(limit, 3), 0.001), 0.999)
+    limit = min(max(limit, 0.01), 0.99)
     body = {"contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
             "limitProb": limit,
-            "expiresAt": int(time.time() * 1000) + 600000}
+            "expiresAt": int(time.time() * 1000) + 60000}
     if answer_id:
         body["answerId"] = answer_id
     r = requests.post(f"{MANIFOLD}/bet", headers=H, json=body, timeout=30)
-    print("  bet", outcome, r.status_code, r.text[:150])
+    print("  bet", outcome, "HTTP", r.status_code, r.text[:150])
+    if r.status_code == 200:
+        res = r.json()
+        bet_id = res.get("betId") or res.get("id")
+        if bet_id and not res.get("isFilled"):
+            c = requests.post(f"{MANIFOLD}/bet/cancel/{bet_id}",
+                              headers=H, timeout=30)
+            print("  cancelled leftover order, HTTP", c.status_code)
 
 with open("markets.json") as f:
     entries = json.load(f)
