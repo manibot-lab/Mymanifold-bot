@@ -67,7 +67,17 @@
   {"manifold": "which-companies-will-officially-ann", "answer": "Databricks", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Anduril", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "us-average-gas-price-is-44800-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26SEP28", "source_answer": "4.4800"},
-    {"manifold": "price-of-gas-on-election-day", "answer": "Above $5.00", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 5.00"}
+    {"manifold": "price-of-gas-on-election-day", "answer": "Above $5.00", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 5.00"},
+    {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "La Bola Negra", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "The Black Ball"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "The Odyssey", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "La Bola Negra", "source": "kalshi_event", "id": "KXOSCARPIC-27", "source_answer": "The Black Ball"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Dune: Part Three", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Digger", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Project Hail Mary", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Wild Horse Nine", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Social Reckoning", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
+  {"manifold": "way-too-early-best-picture-winner-2", "answer": "Fjord", "source": "kalshi_event", "id": "KXOSCARPIC-27"}
+
 
 
 
