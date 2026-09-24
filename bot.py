@@ -2,11 +2,13 @@ import os, json, time, requests
 
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
+KALSHI = "https://api.elections.kalshi.com/trade-api/v2"
+POLY = "https://gamma-api.polymarket.com"
 
-MIN_GAP = 0.03             # only bet if odds differ by 3+ points
+MIN_GAP = 0.03            # only bet if odds differ by 3+ points
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 25            # mana per bet
-MAX_PER_MARKET = 250       # stop betting on a market after this much
+MAX_PER_MARKET = 250       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
 MIN_KALSHI_VOLUME = 1000   # Kalshi contracts traded
 MAX_KALSHI_SPREAD = 0.05   # skip if bid/ask are wider than 5 points
@@ -24,6 +26,27 @@ def num(m, *names):
                 pass
     return None
 
+def norm(s):
+    return " ".join(str(s or "").lower().split())
+
+def pick(items, fields, wanted, label):
+    w = norm(wanted)
+    last = w.split()[-1] if w else ""
+    tests = [
+        lambda v: v == w,
+        lambda v: w in v,
+        lambda v: last in v.split(),
+    ]
+    for test in tests:
+        hits = [it for it in items
+                if any(test(norm(it.get(f))) for f in fields)]
+        if len(hits) == 1:
+            return hits[0]
+        if len(hits) > 1:
+            raise Skip(f"several matches for '{wanted}'")
+    options = ", ".join(str(label(it)) for it in items[:15])
+    raise Skip(f"no match for '{wanted}'. Options: {options}")
+
 def kalshi_price(m, name):
     v = num(m, name + "_dollars")
     if v is not None:
@@ -31,30 +54,7 @@ def kalshi_price(m, name):
     v = num(m, name)  # older format, in cents
     return None if v is None else v / 100
 
-def polymarket(slug):
-    r = requests.get("https://gamma-api.polymarket.com/markets",
-                     params={"slug": slug}, timeout=30)
-    r.raise_for_status()
-    data = r.json()
-    if not data:
-        raise Skip("Polymarket market not found")
-    m = data[0]
-    if m.get("closed") or m.get("active") is False:
-        raise Skip("Polymarket market closed")
-    liq = num(m, "liquidityNum", "liquidity") or 0
-    if liq < MIN_POLY_LIQUIDITY:
-        raise Skip(f"low liquidity ({liq:.0f})")
-    prices = json.loads(m["outcomePrices"])
-    outcomes = json.loads(m["outcomes"])
-    i = outcomes.index("Yes") if "Yes" in outcomes else 0
-    return float(prices[i])
-
-def kalshi(ticker):
-    r = requests.get(
-        f"https://api.elections.kalshi.com/trade-api/v2/markets/{ticker}",
-        timeout=30)
-    r.raise_for_status()
-    m = r.json()["market"]
+def kalshi_odds(m):
     if m.get("status") not in ("open", "active"):
         raise Skip("Kalshi market not open")
     vol = num(m, "volume_fp", "volume") or 0
@@ -68,28 +68,101 @@ def kalshi(ticker):
         raise Skip(f"wide spread ({ask - bid:.2f})")
     return (bid + ask) / 2
 
-SOURCES = {"polymarket": polymarket, "kalshi": kalshi}
+def kalshi(ticker, answer):
+    r = requests.get(f"{KALSHI}/markets/{ticker}", timeout=30)
+    r.raise_for_status()
+    return kalshi_odds(r.json()["market"])
+
+def kalshi_event(event, answer):
+    r = requests.get(f"{KALSHI}/markets",
+                     params={"event_ticker": event, "limit": 200}, timeout=30)
+    r.raise_for_status()
+    ms = r.json().get("markets", [])
+    if not ms:
+        raise Skip("Kalshi event not found")
+    m = pick(ms, ["yes_sub_title", "subtitle", "title"], answer,
+             lambda x: x.get("yes_sub_title") or x.get("title"))
+    print("  matched Kalshi:", m.get("ticker"), "-",
+          m.get("yes_sub_title") or m.get("title"))
+    return kalshi_odds(m)
+
+def poly_odds(m):
+    if m.get("closed") or m.get("active") is False:
+        raise Skip("Polymarket market closed")
+    liq = num(m, "liquidityNum", "liquidity") or 0
+    if liq < MIN_POLY_LIQUIDITY:
+        raise Skip(f"low liquidity ({liq:.0f})")
+    prices = json.loads(m["outcomePrices"])
+    outcomes = json.loads(m["outcomes"])
+    i = outcomes.index("Yes") if "Yes" in outcomes else 0
+    return float(prices[i])
+
+def polymarket(slug, answer):
+    r = requests.get(f"{POLY}/markets", params={"slug": slug}, timeout=30)
+    r.raise_for_status()
+    data = r.json()
+    if not data:
+        raise Skip("Polymarket market not found")
+    return poly_odds(data[0])
+
+def polymarket_event(slug, answer):
+    r = requests.get(f"{POLY}/events", params={"slug": slug}, timeout=30)
+    r.raise_for_status()
+    data = r.json()
+    if not data:
+        raise Skip("Polymarket event not found")
+    ms = data[0].get("markets", [])
+    m = pick(ms, ["groupItemTitle", "question"], answer,
+             lambda x: x.get("groupItemTitle") or x.get("question"))
+    print("  matched Polymarket:",
+          m.get("groupItemTitle") or m.get("question"))
+    return poly_odds(m)
+
+SOURCES = {
+    "kalshi": kalshi,
+    "kalshi_event": kalshi_event,
+    "polymarket": polymarket,
+    "polymarket_event": polymarket_event,
+}
 
 ME = requests.get(f"{MANIFOLD}/me", headers=H, timeout=30).json()["id"]
 
-def spent(contract_id):
+def spent(contract_id, answer_id=None):
     r = requests.get(f"{MANIFOLD}/bets",
                      params={"userId": ME, "contractId": contract_id,
                              "limit": 1000}, timeout=30)
     r.raise_for_status()
-    return sum(b.get("amount", 0) for b in r.json())
+    bets = r.json()
+    if answer_id:
+        bets = [b for b in bets if b.get("answerId") == answer_id]
+    return sum(b.get("amount", 0) for b in bets)
 
-def check(e):
-    target = SOURCES[e["source"]](e["id"])
+def check(e, label):
+    answer = e.get("answer")
+    target = SOURCES[e["source"]](e["id"], answer)
     m = requests.get(f"{MANIFOLD}/slug/{e['manifold']}", timeout=30).json()
-    if m.get("outcomeType") != "BINARY" or m.get("isResolved"):
-        raise Skip("Manifold market not binary or already resolved")
-    current = m["probability"]
-    print(e["manifold"], "manifold", round(current, 3),
-          "source", round(target, 3))
+    if m.get("isResolved"):
+        raise Skip("Manifold market already resolved")
+    answer_id = None
+    if answer:
+        if m.get("outcomeType") != "MULTIPLE_CHOICE":
+            raise Skip("Manifold market is not multiple choice")
+        a = pick(m.get("answers", []), ["text"], answer,
+                 lambda x: x.get("text"))
+        if a.get("resolution"):
+            raise Skip("Manifold answer already resolved")
+        current = num(a, "probability", "prob")
+        if current is None:
+            raise Skip("could not read the Manifold answer's probability")
+        answer_id = a["id"]
+    else:
+        if m.get("outcomeType") != "BINARY":
+            raise Skip("Manifold market is not yes/no")
+        current = m["probability"]
+    print(label, "manifold", round(current, 3), "source", round(target, 3))
     if abs(target - current) < MIN_GAP:
         return
-    used = spent(m["id"])
+    used = spent(m["id"], answer_id)
     if used + BET_AMOUNT > MAX_PER_MARKET:
         print("  cap reached:", round(used), "mana")
         return
@@ -103,19 +176,22 @@ def check(e):
         if limit >= current:
             return
     limit = min(max(round(limit, 3), 0.001), 0.999)
-    r = requests.post(f"{MANIFOLD}/bet", headers=H, json={
-        "contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
-        "limitProb": limit,
-        "expiresAt": int(time.time() * 1000) + 600000}, timeout=30)
+    body = {"contractId": m["id"], "amount": BET_AMOUNT, "outcome": outcome,
+            "limitProb": limit,
+            "expiresAt": int(time.time() * 1000) + 600000}
+    if answer_id:
+        body["answerId"] = answer_id
+    r = requests.post(f"{MANIFOLD}/bet", headers=H, json=body, timeout=30)
     print("  bet", outcome, r.status_code, r.text[:150])
 
 with open("markets.json") as f:
     entries = json.load(f)
 
 for e in entries:
+    label = e["manifold"] + (" / " + e["answer"] if e.get("answer") else "")
     try:
-        check(e)
+        check(e, label)
     except Skip as s:
-        print("skip", e["manifold"], "-", s)
+        print("skip", label, "-", s)
     except Exception as err:
-        print("error on", e, err)
+        print("error on", label, err)
