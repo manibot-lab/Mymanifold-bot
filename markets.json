@@ -83,7 +83,12 @@
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Edouard Philippe", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jean-Luc Mélenchon", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Gabriel Attal", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
-  {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jordan Bardella", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"}
+  {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jordan Bardella", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
+    {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "18", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
+  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "19", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
+  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "20", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
+  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "21", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"}
+
 
 
 
