@@ -57,6 +57,15 @@
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Sergio Perez", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Valtteri Bottas", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Arvid Lindblad", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
-  {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Franco Colapinto", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"}
+  {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Franco Colapinto", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
+    {"manifold": "which-companies-will-officially-ann", "answer": "Anthropic", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Discord", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Kraken", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Skims", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Deel", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "OpenAI", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Databricks", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Anduril", "source": "kalshi_event", "id": "KXIPO-26"}
+
  
 ]
