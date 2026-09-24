@@ -96,7 +96,9 @@
   {"manifold": "will-anthropic-ipo-by", "answer": "September 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "September 30, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "October 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "October 31, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "November 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "November 30, 2026"},
-  {"manifold": "will-anthropic-ipo-by", "answer": "December 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"}
+  {"manifold": "will-anthropic-ipo-by", "answer": "December 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
+    {"manifold": "when-will-anthropic-ipo", "answer": "2026 Q4", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"}
+
 
 
 
