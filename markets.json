@@ -166,5 +166,19 @@
   {"manifold": "fedex-open-de-france-winner-zQn5NSudR6", "answer": "Kristoffer Reitan", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-KREI"},
   {"manifold": "fedex-open-de-france-winner-zQn5NSudR6", "answer": "Viktor Hovland", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-VHOV"},
   {"manifold": "fedex-open-de-france-winner-zQn5NSudR6", "answer": "Ryan Gerard", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-RGER"},
-  {"manifold": "fedex-open-de-france-winner-zQn5NSudR6", "answer": "Jeff Winther", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-JWIN"}
+  {"manifold": "fedex-open-de-france-winner-zQn5NSudR6", "answer": "Jeff Winther", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-JWIN"},
+  {"manifold": "pro-baseball-champion", "answer": "Los Angeles D", "source": "kalshi", "id": "KXMLB-26-LAD"},
+  {"manifold": "pro-baseball-champion", "answer": "Milwaukee", "source": "kalshi", "id": "KXMLB-26-MIL"},
+  {"manifold": "pro-baseball-champion", "answer": "Tampa Bay", "source": "kalshi", "id": "KXMLB-26-TB"},
+  {"manifold": "pro-baseball-champion", "answer": "New York Y", "source": "kalshi", "id": "KXMLB-26-NYY"},
+  {"manifold": "pro-baseball-champion", "answer": "Atlanta", "source": "kalshi", "id": "KXMLB-26-ATL"},
+  {"manifold": "pro-baseball-champion", "answer": "San Diego", "source": "kalshi", "id": "KXMLB-26-SD"},
+  {"manifold": "pro-baseball-champion", "answer": "Boston", "source": "kalshi", "id": "KXMLB-26-BOS"},
+  {"manifold": "pro-baseball-champion", "answer": "Philadelphia", "source": "kalshi", "id": "KXMLB-26-PHI"},
+  {"manifold": "pro-baseball-champion", "answer": "Cleveland", "source": "kalshi", "id": "KXMLB-26-CLE"},
+  {"manifold": "pro-baseball-champion", "answer": "Chicago C", "source": "kalshi", "id": "KXMLB-26-CHC"},
+  {"manifold": "pro-baseball-champion", "answer": "Houston", "source": "kalshi", "id": "KXMLB-26-HOU"},
+  {"manifold": "pro-baseball-champion", "answer": "Chicago WS", "source": "kalshi", "id": "KXMLB-26-CWS"},
+  {"manifold": "pro-baseball-champion", "answer": "Texas", "source": "kalshi", "id": "KXMLB-26-TEX"},
+  {"manifold": "pro-baseball-champion", "answer": "Arizona", "source": "kalshi", "id": "KXMLB-26-AZ"}
 ]
