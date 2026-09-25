@@ -204,6 +204,11 @@
   {"manifold": "presidents-cup-winner", "answer": "Team USA", "source": "kalshi", "id": "KXPRESCUP-26-USA"},
   {"manifold": "presidents-cup-winner", "answer": "Team International", "source": "kalshi", "id": "KXPRESCUP-26-WORLD"},
   {"manifold": "presidents-cup-winner", "answer": "Tie", "source": "kalshi", "id": "KXPRESCUP-26-TIE"},
-    {"manifold": "will-the-odyssey-receive-the-most-o", "source": "polymarket_event", "id": "which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards", "source_answer": "The Odyssey"}
-
+  {"manifold": "will-the-odyssey-receive-the-most-o", "source": "polymarket_event", "id": "which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards", "source_answer": "The Odyssey"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.50", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.50"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.52", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.52"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.54", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.54"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.48", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.48"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.56", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.56"},
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.46", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.46"}
 ]
