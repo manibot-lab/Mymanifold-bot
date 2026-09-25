@@ -1,5 +1,5 @@
 import os, json, re, sys, time, requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 H = {"Authorization": f"Key {os.environ['MANIFOLD_KEY']}"}
 MANIFOLD = "https://api.manifold.markets/v0"
@@ -23,7 +23,7 @@ def price(m, name):
     v = num(m, name + "_dollars")
     if v is not None:
         return v
-    v = num(m, name)  # older format, in cents
+    v = num(m, name)
     return None if v is None else v / 100
 
 def mid(m):
@@ -44,10 +44,16 @@ def to_ms(s):
 
 url = os.environ.get("KALSHI_URL", "").strip()
 create = os.environ.get("CREATE", "false").strip().lower() == "true"
+liquidity_tier = os.environ.get("LIQUIDITY_TIER", "").strip() or "1000"
 try:
     max_answers = max(2, min(int(os.environ.get("MAX_ANSWERS") or 10), 30))
 except ValueError:
     max_answers = 10
+
+me = requests.get(f"{MANIFOLD}/me", headers=H, timeout=30).json()
+balance = me.get("balance", 0)
+print(f"Bot account balance: {balance:.0f} mana")
+print(f"Liquidity tier requested: {liquidity_tier}")
 
 path = url.split("?")[0].split("#")[0].rstrip("/")
 ticker = path.split("/")[-1].upper()
@@ -99,7 +105,6 @@ if multi:
     if len(chosen) < 2:
         die("Not enough distinct answers to make a multi-answer market.")
 
-# Skip if Manifold already has a market with this exact title
 r = requests.get(f"{MANIFOLD}/search-markets",
                  params={"term": title, "limit": 5}, timeout=30)
 found = r.json() if r.status_code == 200 else []
@@ -125,12 +130,16 @@ if multi:
             "answers": [t for t, _ in chosen],
             "shouldAnswersSumToOne": bool(ev.get("mutually_exclusive")),
             "addAnswersMode": "DISABLED",
+            "visibility": "public",
+            "liquidityTier": liquidity_tier,
             "descriptionMarkdown": desc}
 else:
     p = mid(live[0])
     prob = 50 if p is None else min(max(round(p * 100), 1), 99)
     body = {"outcomeType": "BINARY", "question": title,
-            "initialProb": prob, "descriptionMarkdown": desc}
+            "initialProb": prob, "visibility": "public",
+            "liquidityTier": liquidity_tier,
+            "descriptionMarkdown": desc}
 if close_ms:
     body["closeTime"] = close_ms
 
@@ -146,7 +155,8 @@ else:
     print("Starting probability:", body["initialProb"], "| ticker",
           live[0]["ticker"])
 if close_ms:
-    print("Closes:", datetime.utcfromtimestamp(close_ms / 1000), "UTC")
+    print("Closes:", datetime.fromtimestamp(close_ms / 1000, tz=timezone.utc),
+          "UTC")
 for f in found[:3]:
     print("Similar market already on Manifold:", f.get("url"))
 
@@ -156,11 +166,13 @@ if not create:
     sys.exit(0)
 
 resp = None
+last_text = ""
 for _ in range(3):
     r = requests.post(f"{MANIFOLD}/market", headers=H, json=body, timeout=60)
     if r.status_code == 200:
         resp = r.json()
         break
+    last_text = r.text
     print("Manifold said:", r.status_code, r.text[:400])
     km = re.search(r"Unrecognized key\(s\) in object: ([^\"]+)", r.text)
     removed = []
@@ -173,8 +185,13 @@ for _ in range(3):
     for k in removed:
         body.pop(k)
     print("Retrying without:", removed)
+
 if resp is None:
-    die("Could not create the market.")
+    if "insufficient" in last_text.lower() or "balance" in last_text.lower():
+        die("Manifold rejected this for insufficient mana in the bot "
+            "account. Add mana, or lower max_answers/liquidity_tier, "
+            "and try again.")
+    die("Could not create the market. See Manifold's message above.")
 
 slug = resp.get("slug") or str(resp.get("url", "")).rstrip("/").split("/")[-1]
 print("Created:", resp.get("url") or slug)
