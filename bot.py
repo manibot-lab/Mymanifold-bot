@@ -214,16 +214,12 @@ def check(e, label):
         print("  cap reached:", round(used), "mana")
         return
 
-    outcome = "YES" if mid > current else "NO"
-    if outcome == "YES":
-        # ceiling: how far up we'll bid = the conservative (bid) side
-        raw_target = bid
-    else:
-        # floor: how far down we'll go. For a real two-sided Kalshi
-        # quote, use the conservative complement of the ask (100% minus
-        # yes_ask). For a single-number source (Polymarket), bid==ask,
-        # so this is just that same number -- unchanged behaviour there.
-        raw_target = (1 - ask) if two_sided else ask
+       outcome = "YES" if mid > current else "NO"
+    # Use the actual quoted side directly (no inverting): betting up
+    # targets the bid, betting down targets the ask. For a single-value
+    # source (Polymarket) bid==ask, so this is unchanged from before.
+    raw_target = bid if outcome == "YES" else ask
+
 
     if outcome == "YES":
         limit = math.floor(round((raw_target - margin) * 100, 6)) / 100
