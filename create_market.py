@@ -96,7 +96,11 @@ if not title:
 multi = len(live) > 1
 chosen = []
 if multi:
-    live.sort(key=lambda m: mid(m) or 0, reverse=True)
+        def uncertainty(m):
+        p = mid(m)
+        return 1.0 if p is None else abs(p - 0.5)  # unknowns go last
+    live.sort(key=uncertainty)
+
     seen = set()
     for m in live:
         text = (m.get("yes_sub_title") or m.get("subtitle")
