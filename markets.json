@@ -224,7 +224,11 @@
   {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Jack Lowden", "source": "kalshi_event", "id": "KXBOND-30"},
   {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Callum Turner", "source": "kalshi_event", "id": "KXBOND-30"},
   {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Jack Barton", "source": "kalshi_event", "id": "KXBOND-30"},
-  {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Aaron Taylor-Johnson", "source": "kalshi_event", "id": "KXBOND-30"}
+  {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Aaron Taylor-Johnson", "source": "kalshi_event", "id": "KXBOND-30"},
+    {"manifold": "next-james-bond", "answer": "Jack O'Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"},
+  {"manifold": "who-will-be-007-after-daniel-craig", "answer": "Jack O'Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"},
+  {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Jack O'Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"}
+
 
 
 
