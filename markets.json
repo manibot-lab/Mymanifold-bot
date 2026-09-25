@@ -228,7 +228,9 @@
     {"manifold": "next-james-bond", "answer": "Jack O Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"},
   {"manifold": "who-will-be-007-after-daniel-craig", "answer": "Jack O Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"},
   {"manifold": "who-will-be-the-next-james-bond-94b914e2e57b", "answer": "Jack O Connell", "source": "kalshi", "id": "KXBOND-30-JACKO"},
-    {"manifold": "acx-2026-will-the-sp-500-close-abov", "source": "kalshi_event", "id": "KXINXDIRY-26DEC31H1600", "source_answer": "7500"}
+    {"manifold": "acx-2026-will-the-sp-500-close-abov", "source": "kalshi_event", "id": "KXINXDIRY-26DEC31H1600", "source_answer": "7500"},
+   {"manifold": "polymarket-clavicular-sentenced-to", "source": "polymarket", "id": "clavicular-sentenced-to-prison-114"}
+ 
 
 
 
