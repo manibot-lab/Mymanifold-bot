@@ -12,6 +12,9 @@ on:
       max_answers:
         description: "Most answers for multi-answer markets"
         default: "10"
+      liquidity_tier:
+        description: "Liquidity tier (check Manifold's create-market page for valid values, e.g. 100, 1000, 10000)"
+        default: "100"
 permissions:
   contents: write
 concurrency:
@@ -29,6 +32,7 @@ jobs:
           KALSHI_URL: ${{ inputs.kalshi_url }}
           CREATE: ${{ inputs.create }}
           MAX_ANSWERS: ${{ inputs.max_answers }}
+          LIQUIDITY_TIER: ${{ inputs.liquidity_tier }}
       - name: Save markets.json
         run: |
           git config user.name "github-actions"
