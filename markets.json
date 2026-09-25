@@ -200,5 +200,7 @@
   {"manifold": "closest-senate-race-in-2026", "answer": "Minnesota", "source": "kalshi", "id": "KXCLOSESTSENATE-27JAN03-MN"},
   {"manifold": "closest-senate-race-in-2026", "answer": "Georgia", "source": "kalshi", "id": "KXCLOSESTSENATE-27JAN03-GA"},
   {"manifold": "closest-senate-race-in-2026", "answer": "North Carolina", "source": "kalshi", "id": "KXCLOSESTSENATE-27JAN03-NC"},
-  {"manifold": "closest-senate-race-in-2026", "answer": "South Dakota", "source": "kalshi", "id": "KXCLOSESTSENATE-27JAN03-SD"}
+  {"manifold": "closest-senate-race-in-2026", "answer": "South Dakota", "source": "kalshi", "id": "KXCLOSESTSENATE-27JAN03-SD"},
+    {"manifold": "will-ryan-gosling-be-nominated-for", "source": "kalshi_event", "id": "KXOSCARNOMACTO-27", "source_answer": "Ryan Gosling"}
+
 ]
