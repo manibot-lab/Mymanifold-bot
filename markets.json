@@ -129,6 +129,20 @@
   {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES-26"},
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Fl\u00e1vio Bolsonaro"},
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
-  {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"}
-  
+  {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Julianne Moore", "source": "kalshi", "id": "KXOSCARNOMACTR-27-JUL"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Inde Navarrette", "source": "kalshi", "id": "KXOSCARNOMACTR-27-IND"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Olivia Wilde", "source": "kalshi", "id": "KXOSCARNOMACTR-27-OLI"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Rosalind Eleazar", "source": "kalshi", "id": "KXOSCARNOMACTR-27-ROS"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Sandra H\u00fcller", "source": "kalshi", "id": "KXOSCARNOMACTR-27-SAN"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Renate Reinsve", "source": "kalshi", "id": "KXOSCARNOMACTR-27-REN"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Virginie Efira", "source": "kalshi", "id": "KXOSCARNOMACTR-27-VIR"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Ruth Madeley", "source": "kalshi", "id": "KXOSCARNOMACTR-27-RUT"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Joan Collins", "source": "kalshi", "id": "KXOSCARNOMACTR-27-JOA"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Cynthia Erivo", "source": "kalshi", "id": "KXOSCARNOMACTR-27-CYN"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Laura Linney", "source": "kalshi", "id": "KXOSCARNOMACTR-27-LAU"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Natalie Portman", "source": "kalshi", "id": "KXOSCARNOMACTR-27-NAT"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Emily Blunt", "source": "kalshi", "id": "KXOSCARNOMACTR-27-EMI"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Mikey Madison", "source": "kalshi", "id": "KXOSCARNOMACTR-27-MIK"},
+  {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Daisy Edgar-Jones", "source": "kalshi", "id": "KXOSCARNOMACTR-27-DAI"}
 ]
