@@ -122,7 +122,14 @@
   {"manifold": "who-will-win-big-brother-28", "answer": "Dee", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Drew", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
     {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Republicans", "source": "kalshi", "id": "GOVPARTYVT-26-R"},
-  {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Democrats", "source": "kalshi", "id": "GOVPARTYVT-26-D"}
+  {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Democrats", "source": "kalshi", "id": "GOVPARTYVT-26-D"},
+    {"manifold": "brazil-presidential-election-winner", "answer": "Flávio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
+  {"manifold": "brazil-presidential-election-winner", "answer": "Luiz Inácio Lula da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
+  {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Flávio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
+  {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES-26"},
+  {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Flávio Bolsonaro"},
+  {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"}
+
 
 
 
