@@ -15,6 +15,21 @@ on:
       liquidity_tier:
         description: "Liquidity tier (check Manifold's create-market page for valid values, e.g. 100, 1000, 10000)"
         default: "100"
+      allow_duplicate:
+        description: "Tick to allow creating a market even if one with this exact title already exists"
+        type: boolean
+        default: false
+      include_other:
+        description: "Tick to add an 'Other' answer for probability not covered by the answers you picked"
+        type: boolean
+        default: false
+      sum_to_one:
+        description: "Only one answer can win? true / false / leave blank to use Kalshi's own setting"
+        default: ""
+      allow_new_answers:
+        description: "Tick to let people add new answers on Manifold after creation (off = locked to your picks + Other)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -33,6 +48,10 @@ jobs:
           CREATE: ${{ inputs.create }}
           MAX_ANSWERS: ${{ inputs.max_answers }}
           LIQUIDITY_TIER: ${{ inputs.liquidity_tier }}
+          ALLOW_DUPLICATE: ${{ inputs.allow_duplicate }}
+          INCLUDE_OTHER: ${{ inputs.include_other }}
+          SUM_TO_ONE: ${{ inputs.sum_to_one }}
+          ALLOW_NEW_ANSWERS: ${{ inputs.allow_new_answers }}
       - name: Save markets.json
         run: |
           git config user.name "github-actions"
