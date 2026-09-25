@@ -55,6 +55,9 @@ try:
 except ValueError:
     max_answers = 10
 allow_dup = os.environ.get("ALLOW_DUPLICATE", "false").strip().lower() == "true"
+include_other = os.environ.get("INCLUDE_OTHER", "false").strip().lower() == "true"
+sum_to_one = os.environ.get("SUM_TO_ONE", "").strip().lower()
+allow_new_answers = os.environ.get("ALLOW_NEW_ANSWERS", "false").strip().lower() == "true"
 
 me = requests.get(f"{MANIFOLD}/me", headers=H, timeout=30).json()
 balance = me.get("balance", 0)
@@ -113,6 +116,8 @@ if multi:
             break
     if len(chosen) < 2:
         die("Not enough distinct answers to make a multi-answer market.")
+    if include_other:
+        chosen.append(("Other", None))
 
 r = requests.get(f"{MANIFOLD}/search-markets",
                  params={"term": title, "limit": 5}, timeout=30)
@@ -142,8 +147,11 @@ desc = ("Mirrors this Kalshi market: " + url + "\n\n"
 if multi:
     body = {"outcomeType": "MULTIPLE_CHOICE", "question": title,
             "answers": [t for t, _ in chosen],
-            "shouldAnswersSumToOne": bool(ev.get("mutually_exclusive")),
-            "addAnswersMode": "DISABLED",
+            "shouldAnswersSumToOne": (
+                True if sum_to_one == "true" else
+                False if sum_to_one == "false" else
+                bool(ev.get("mutually_exclusive"))),
+            "addAnswersMode": "ANYONE" if allow_new_answers else "DISABLED",
             "visibility": "public",
             "liquidityTier": liquidity_tier,
             "descriptionMarkdown": desc}
@@ -161,7 +169,11 @@ print("Question:", title)
 print("Type:", body["outcomeType"])
 if multi:
     print("Answers add up to 100%:", body["shouldAnswersSumToOne"])
+    print("New answers allowed after creation:", allow_new_answers)
     for text, m in chosen:
+        if m is None:
+            print("  -", text, "(catch-all, not tracked by the copy bot)")
+            continue
         p = mid(m)
         print("  -", text, "| Kalshi", "n/a" if p is None else f"{p:.0%}",
               "|", m["ticker"])
@@ -213,6 +225,8 @@ print("Created:", resp.get("url") or slug)
 new = []
 if multi:
     for text, m in chosen:
+        if m is None:
+            continue  # "Other" has no Kalshi market to copy from
         new.append({"manifold": slug, "answer": text,
                     "source": "kalshi", "id": m["ticker"]})
 else:
