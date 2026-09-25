@@ -203,5 +203,7 @@
   {"manifold": "will-ryan-gosling-be-nominated-for", "source": "kalshi_event", "id": "KXOSCARNOMACTO-27", "source_answer": "Ryan Gosling"},
   {"manifold": "presidents-cup-winner", "answer": "Team USA", "source": "kalshi", "id": "KXPRESCUP-26-USA"},
   {"manifold": "presidents-cup-winner", "answer": "Team International", "source": "kalshi", "id": "KXPRESCUP-26-WORLD"},
-  {"manifold": "presidents-cup-winner", "answer": "Tie", "source": "kalshi", "id": "KXPRESCUP-26-TIE"}
+  {"manifold": "presidents-cup-winner", "answer": "Tie", "source": "kalshi", "id": "KXPRESCUP-26-TIE"},
+    {"manifold": "will-the-odyssey-receive-the-most-o", "source": "polymarket_event", "id": "which-film-will-get-the-most-oscar-nominations-at-the-99th-academy-awards", "source_answer": "The Odyssey"}
+
 ]
