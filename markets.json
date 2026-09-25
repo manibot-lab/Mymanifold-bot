@@ -210,5 +210,9 @@
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.54", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.54"},
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.48", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.48"},
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.56", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.56"},
-  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.46", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.46"}
+  {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.46", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.46"},
+    {"manifold": "will-gukesh-win-the-2026-world-ches", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26", "source_answer": "Gukesh"},
+  {"manifold": "who-will-win-the-2026-world-chess-c-qty9l85QZc", "answer": "Gukesh D", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26", "source_answer": "Gukesh"},
+  {"manifold": "who-will-win-the-2026-world-chess-c-qty9l85QZc", "answer": "Javokhir Sindarov", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26"}
+
 ]
