@@ -155,5 +155,10 @@
   {"manifold": "fedex-open-de-france-winner", "answer": "Kristoffer Reitan", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-KREI"},
   {"manifold": "fedex-open-de-france-winner", "answer": "Viktor Hovland", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-VHOV"},
   {"manifold": "fedex-open-de-france-winner", "answer": "Ryan Gerard", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-RGER"},
-  {"manifold": "fedex-open-de-france-winner", "answer": "Jeff Winther", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-JWIN"}
+  {"manifold": "fedex-open-de-france-winner", "answer": "Jeff Winther", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-JWIN"},
+  {"manifold": "fedex-open-de-france-winner-IZpngzpZC8", "answer": "Matt Fitzpatrick", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-MFIT"},
+  {"manifold": "fedex-open-de-france-winner-IZpngzpZC8", "answer": "Michael Kim", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-MKIM"},
+  {"manifold": "fedex-open-de-france-winner-IZpngzpZC8", "answer": "Kristoffer Reitan", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-KREI"},
+  {"manifold": "fedex-open-de-france-winner-IZpngzpZC8", "answer": "Viktor Hovland", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-VHOV"},
+  {"manifold": "fedex-open-de-france-winner-IZpngzpZC8", "answer": "Ryan Gerard", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-RGER"}
 ]
