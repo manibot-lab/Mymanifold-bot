@@ -149,5 +149,11 @@
   {"manifold": "google-market-share-this-week", "answer": "Above 17.5%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-17.5"},
   {"manifold": "google-market-share-this-week", "answer": "Above 18.1%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-18.1"},
   {"manifold": "google-market-share-this-week-SIqdNNIuhN", "answer": "Above 20.0%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-20.0"},
-  {"manifold": "google-market-share-this-week-SIqdNNIuhN", "answer": "Above 19.3%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-19.3"}
+  {"manifold": "google-market-share-this-week-SIqdNNIuhN", "answer": "Above 19.3%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-19.3"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Matt Fitzpatrick", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-MFIT"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Michael Kim", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-MKIM"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Kristoffer Reitan", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-KREI"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Viktor Hovland", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-VHOV"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Ryan Gerard", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-RGER"},
+  {"manifold": "fedex-open-de-france-winner", "answer": "Jeff Winther", "source": "kalshi", "id": "KXDPWORLDTOUR-FEODF26-JWIN"}
 ]
