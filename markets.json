@@ -129,6 +129,6 @@
   {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES-26"},
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Fl\u00e1vio Bolsonaro"},
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
-  {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"},
+  {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"}
   
 ]
