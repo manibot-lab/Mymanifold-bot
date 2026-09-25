@@ -44,7 +44,13 @@ def to_ms(s):
 
 url = os.environ.get("KALSHI_URL", "").strip()
 create = os.environ.get("CREATE", "false").strip().lower() == "true"
-liquidity_tier = os.environ.get("LIQUIDITY_TIER", "").strip() or "1000"
+try:
+    liquidity_tier = float(os.environ.get("LIQUIDITY_TIER", "").strip() or "1000")
+    if liquidity_tier == int(liquidity_tier):
+        liquidity_tier = int(liquidity_tier)
+except ValueError:
+    die("liquidity_tier must be a number, e.g. 1000")
+
 try:
     max_answers = max(2, min(int(os.environ.get("MAX_ANSWERS") or 10), 30))
 except ValueError:
