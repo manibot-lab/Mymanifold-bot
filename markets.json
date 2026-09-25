@@ -147,5 +147,7 @@
   {"manifold": "oscar-nominees-best-actress-AqCqIsNcQy", "answer": "Daisy Edgar-Jones", "source": "kalshi", "id": "KXOSCARNOMACTR-27-DAI"},
   {"manifold": "google-market-share-this-week", "answer": "Above 16.7%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-16.7"},
   {"manifold": "google-market-share-this-week", "answer": "Above 17.5%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-17.5"},
-  {"manifold": "google-market-share-this-week", "answer": "Above 18.1%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-18.1"}
+  {"manifold": "google-market-share-this-week", "answer": "Above 18.1%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-18.1"},
+  {"manifold": "google-market-share-this-week-SIqdNNIuhN", "answer": "Above 20.0%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-20.0"},
+  {"manifold": "google-market-share-this-week-SIqdNNIuhN", "answer": "Above 19.3%", "source": "kalshi", "id": "KXGOOGSHARE-26SEP28-19.3"}
 ]
