@@ -22,7 +22,7 @@
   {"manifold": "best-picture-nominees-2027-oscars", "answer": "Jack of Spades", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars", "answer": "Being Heumann", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars", "answer": "The Social Reckoning", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
-    {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "The Odyssey", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
+  {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "The Odyssey", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "Wild Horse Nine", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "Dune: Part Three", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "The Debut", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
@@ -38,7 +38,7 @@
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "Elsinore", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "Possible Love", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
   {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "The Social Reckoning", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27"},
-   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Lando Norris", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
+  {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Lando Norris", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Kimi Antonelli", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Oscar Piastri", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Fernando Alonso", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
@@ -58,7 +58,7 @@
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Valtteri Bottas", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Arvid Lindblad", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
   {"manifold": "which-drivers-will-finish-top-10-in", "answer": "Franco Colapinto", "source": "kalshi_event", "id": "KXF1TOP10-AZEGP26"},
-    {"manifold": "which-companies-will-officially-ann", "answer": "Anthropic", "source": "kalshi_event", "id": "KXIPO-26"},
+  {"manifold": "which-companies-will-officially-ann", "answer": "Anthropic", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Discord", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Kraken", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Skims", "source": "kalshi_event", "id": "KXIPO-26"},
@@ -67,8 +67,8 @@
   {"manifold": "which-companies-will-officially-ann", "answer": "Databricks", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "which-companies-will-officially-ann", "answer": "Anduril", "source": "kalshi_event", "id": "KXIPO-26"},
   {"manifold": "us-average-gas-price-is-44800-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26SEP28", "source_answer": "4.4800"},
-    {"manifold": "price-of-gas-on-election-day", "answer": "Above $5.00", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 5.00"},
-    {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "La Bola Negra", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "The Black Ball"},
+  {"manifold": "price-of-gas-on-election-day", "answer": "Above $5.00", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 5.00"},
+  {"manifold": "best-picture-nominees-2027-oscars-PudggP9lZR", "answer": "La Bola Negra", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "The Black Ball"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "The Odyssey", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "La Bola Negra", "source": "kalshi_event", "id": "KXOSCARPIC-27", "source_answer": "The Black Ball"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Dune: Part Three", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
@@ -77,19 +77,19 @@
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Wild Horse Nine", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Social Reckoning", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
   {"manifold": "way-too-early-best-picture-winner-2", "answer": "Fjord", "source": "kalshi_event", "id": "KXOSCARPIC-27"},
-    {"manifold": "will-project-hail-mary-be-nominated", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "Project Hail Mary"},
+  {"manifold": "will-project-hail-mary-be-nominated", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "Project Hail Mary"},
   {"manifold": "will-obsession-be-nominated-for-bes", "source": "kalshi_event", "id": "KXOSCARNOMPIC-27", "source_answer": "Obsession"},
-    {"manifold": "who-will-make-the-second-round-of-t", "answer": "Marine Le Pen", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
+  {"manifold": "who-will-make-the-second-round-of-t", "answer": "Marine Le Pen", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Edouard Philippe", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
-  {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jean-Luc Mélenchon", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
+  {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jean-Luc M\u00e9lenchon", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Gabriel Attal", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
   {"manifold": "who-will-make-the-second-round-of-t", "answer": "Jordan Bardella", "source": "kalshi_event", "id": "KXFRPRESADVANCE-26APR18"},
-    {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "18", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
+  {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "18", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "19", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "20", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
   {"manifold": "how-many-democratic-representatives-Pc9ysPsQlN", "answer": "21", "source": "kalshi_event", "id": "KXHOUSEWINSTATE-NYD"},
-    {"manifold": "will-anthropic-have-the-largest-ipo", "answer": "No [Anthropic does not IPO in 2026]", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true},
-    {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "October 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
+  {"manifold": "will-anthropic-have-the-largest-ipo", "answer": "No [Anthropic does not IPO in 2026]", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true},
+  {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "October 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
   {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "November 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
   {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "December 2026", "source": "polymarket_event", "id": "in-which-month-will-anthropic-ipo"},
   {"manifold": "what-month-in-2026-will-anthropic-i", "answer": "Does not ipo in 2026", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026", "invert": true},
@@ -97,8 +97,8 @@
   {"manifold": "will-anthropic-ipo-by", "answer": "October 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "October 31, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "November 30 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "November 30, 2026"},
   {"manifold": "will-anthropic-ipo-by", "answer": "December 31 11.59pm ET", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
-    {"manifold": "when-will-anthropic-ipo", "answer": "2026 Q4", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
-    {"manifold": "will-anthropic-or-openai-ipo-first", "source": "kalshi_event", "id": "KXOAIANTH-40", "source_answer": "Anthropic"},
+  {"manifold": "when-will-anthropic-ipo", "answer": "2026 Q4", "source": "polymarket_event", "id": "anthropic-ipo-by", "source_answer": "December 31, 2026"},
+  {"manifold": "will-anthropic-or-openai-ipo-first", "source": "kalshi_event", "id": "KXOAIANTH-40", "source_answer": "Anthropic"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Falcons beat Packers", "source": "kalshi", "id": "KXNFLGAME-26SEP24ATLGB-ATL"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Chargers beat Bills", "source": "kalshi", "id": "KXNFLGAME-26SEP27LACBUF-LAC"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Panthers beat Browns", "source": "kalshi", "id": "KXNFLGAME-26SEP27CARCLE-CAR"},
@@ -115,36 +115,19 @@
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Ravens beat Cowboys", "source": "kalshi", "id": "KXNFLGAME-26SEP27BALDAL-BAL"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Rams beat Broncos", "source": "kalshi", "id": "KXNFLGAME-26SEP27LARDEN-LAR"},
   {"manifold": "week-3-nfl-2026-megamarket-all-game", "answer": "Eagles beat Bears", "source": "kalshi", "id": "KXNFLGAME-26SEP28PHICHI-PHI"},
-    {"manifold": "2026-ohio-governor-election-winner", "answer": "Amy Acton (D)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Amy Acton"},
+  {"manifold": "2026-ohio-governor-election-winner", "answer": "Amy Acton (D)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Amy Acton"},
   {"manifold": "2026-ohio-governor-election-winner", "answer": "Vivek Ramaswamy (R)", "source": "kalshi_event", "id": "GOVPARTYOH-26", "source_answer": "Vivek Ramaswamy"},
-    {"manifold": "who-will-win-big-brother-28", "answer": "Devens", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
+  {"manifold": "who-will-win-big-brother-28", "answer": "Devens", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Taylor", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Dee", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
   {"manifold": "who-will-win-big-brother-28", "answer": "Drew", "source": "kalshi_event", "id": "KXBIGBROTHER-26DEC31"},
-    {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Republicans", "source": "kalshi", "id": "GOVPARTYVT-26-R"},
+  {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Republicans", "source": "kalshi", "id": "GOVPARTYVT-26-R"},
   {"manifold": "which-party-will-win-the-2026-vermo", "answer": "Democrats", "source": "kalshi", "id": "GOVPARTYVT-26-D"},
-    {"manifold": "brazil-presidential-election-winner", "answer": "Flávio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
-  {"manifold": "brazil-presidential-election-winner", "answer": "Luiz Inácio Lula da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
-  {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Flávio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
+  {"manifold": "brazil-presidential-election-winner", "answer": "Fl\u00e1vio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
+  {"manifold": "brazil-presidential-election-winner", "answer": "Luiz In\u00e1cio Lula da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
+  {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Fl\u00e1vio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26"},
   {"manifold": "who-will-win-the-2026-brazilian-pre", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES-26"},
-  {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Flávio Bolsonaro"},
-  {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+  {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Fl\u00e1vio Bolsonaro"},
+  {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
+  {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"}
 ]
-
