@@ -50,7 +50,6 @@ try:
         liquidity_tier = int(liquidity_tier)
 except ValueError:
     die("liquidity_tier must be a number, e.g. 100")
-
 try:
     max_answers = max(2, min(int(os.environ.get("MAX_ANSWERS") or 10), 30))
 except ValueError:
@@ -128,8 +127,7 @@ rules = (live[0].get("rules_primary") or "").strip()[:1200]
 desc = ("Mirrors this Kalshi market: " + url + "\n\n"
         "Resolves according to Kalshi's final result, using Kalshi's rules "
         "for this market.\n\n"
-        + (("Kalshi's rules: " + rules + "\n\n") if rules else "")
-    
+        + (("Kalshi's rules: " + rules + "\n\n") if rules else ""))
 
 if multi:
     body = {"outcomeType": "MULTIPLE_CHOICE", "question": title,
