@@ -130,22 +130,5 @@
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Flavio Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Fl\u00e1vio Bolsonaro"},
   {"manifold": "2026-brazil-presidential-election-w", "answer": "Lula Da Silva", "source": "kalshi_event", "id": "KXBRPRES-26", "source_answer": "Lula"},
   {"manifold": "will-the-us-ban-diesel-exports-befo", "source": "kalshi", "id": "KXDIESELEXPORTBAN-26"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Julianne Moore", "source": "kalshi", "id": "KXOSCARNOMACTR-27-JUL"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Inde Navarrette", "source": "kalshi", "id": "KXOSCARNOMACTR-27-IND"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Olivia Wilde", "source": "kalshi", "id": "KXOSCARNOMACTR-27-OLI"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Renate Reinsve", "source": "kalshi", "id": "KXOSCARNOMACTR-27-REN"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Rosalind Eleazar", "source": "kalshi", "id": "KXOSCARNOMACTR-27-ROS"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Sandra H\u00fcller", "source": "kalshi", "id": "KXOSCARNOMACTR-27-SAN"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Virginie Efira", "source": "kalshi", "id": "KXOSCARNOMACTR-27-VIR"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Ruth Madeley", "source": "kalshi", "id": "KXOSCARNOMACTR-27-RUT"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Joan Collins", "source": "kalshi", "id": "KXOSCARNOMACTR-27-JOA"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Cynthia Erivo", "source": "kalshi", "id": "KXOSCARNOMACTR-27-CYN"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Laura Linney", "source": "kalshi", "id": "KXOSCARNOMACTR-27-LAU"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Natalie Portman", "source": "kalshi", "id": "KXOSCARNOMACTR-27-NAT"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Emily Blunt", "source": "kalshi", "id": "KXOSCARNOMACTR-27-EMI"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Mikey Madison", "source": "kalshi", "id": "KXOSCARNOMACTR-27-MIK"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Daisy Edgar-Jones", "source": "kalshi", "id": "KXOSCARNOMACTR-27-DAI"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Dakota Johnson", "source": "kalshi", "id": "KXOSCARNOMACTR-27-DAK"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Shailene Woodley", "source": "kalshi", "id": "KXOSCARNOMACTR-27-SHA"},
-  {"manifold": "oscar-nominees-best-actress", "answer": "Lily Gladstone", "source": "kalshi", "id": "KXOSCARNOMACTR-27-LIL"}
+  
 ]
