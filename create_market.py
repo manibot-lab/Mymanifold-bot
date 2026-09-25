@@ -54,6 +54,7 @@ try:
     max_answers = max(2, min(int(os.environ.get("MAX_ANSWERS") or 10), 30))
 except ValueError:
     max_answers = 10
+allow_dup = os.environ.get("ALLOW_DUPLICATE", "false").strip().lower() == "true"
 
 me = requests.get(f"{MANIFOLD}/me", headers=H, timeout=30).json()
 balance = me.get("balance", 0)
@@ -96,11 +97,10 @@ if not title:
 multi = len(live) > 1
 chosen = []
 if multi:
-        def uncertainty(m):
+    def uncertainty(m):
         p = mid(m)
-        return 1.0 if p is None else abs(p - 0.5)  # unknowns go last
+        return 1.0 if p is None else abs(p - 0.5)  # unknown prices go last
     live.sort(key=uncertainty)
-
     seen = set()
     for m in live:
         text = (m.get("yes_sub_title") or m.get("subtitle")
@@ -119,7 +119,13 @@ r = requests.get(f"{MANIFOLD}/search-markets",
 found = r.json() if r.status_code == 200 else []
 for f in found:
     if norm(f.get("question")) == norm(title):
-        die("A market with this exact title already exists: " + str(f.get("url")))
+        if allow_dup:
+            print("Note: a market with this exact title already exists "
+                  "(" + str(f.get("url")) + "), continuing anyway.")
+        else:
+            die("A market with this exact title already exists: "
+                + str(f.get("url")) + ". Tick allow_duplicate to make "
+                "another one anyway.")
 
 closes = [c for c in (to_ms(m.get("close_time")) for m in live
                       if m.get("close_time")) if c]
