@@ -45,11 +45,11 @@ def to_ms(s):
 url = os.environ.get("KALSHI_URL", "").strip()
 create = os.environ.get("CREATE", "false").strip().lower() == "true"
 try:
-    liquidity_tier = float(os.environ.get("LIQUIDITY_TIER", "").strip() or "1000")
+    liquidity_tier = float(os.environ.get("LIQUIDITY_TIER", "").strip() or "100")
     if liquidity_tier == int(liquidity_tier):
         liquidity_tier = int(liquidity_tier)
 except ValueError:
-    die("liquidity_tier must be a number, e.g. 1000")
+    die("liquidity_tier must be a number, e.g. 100")
 
 try:
     max_answers = max(2, min(int(os.environ.get("MAX_ANSWERS") or 10), 30))
@@ -129,7 +129,7 @@ desc = ("Mirrors this Kalshi market: " + url + "\n\n"
         "Resolves according to Kalshi's final result, using Kalshi's rules "
         "for this market.\n\n"
         + (("Kalshi's rules: " + rules + "\n\n") if rules else "")
-        + "Created and traded by an automated account.")
+    
 
 if multi:
     body = {"outcomeType": "MULTIPLE_CHOICE", "question": title,
