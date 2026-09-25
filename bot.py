@@ -8,14 +8,14 @@ POLY = "https://gamma-api.polymarket.com"
 # Defaults. Any entry in markets.json can override min_gap, max_gap,
 # margin (in percentage points), bet, cap (in mana) and max_spread
 # (in percentage points, Kalshi entries only).
-MIN_GAP = 0.03             # only bet if odds differ by 5+ points
+MIN_GAP = 0.05             # only bet if odds differ by 5+ points
 MAX_GAP = 1.0              # skip if odds differ by more than this
 MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 25            # mana per bet
 MAX_PER_MARKET = 250       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
 MIN_KALSHI_VOLUME = 1000   # Kalshi contracts traded
-MAX_KALSHI_SPREAD = 0.99  # skip if Kalshi bid/ask are wider than 15 points
+MAX_KALSHI_SPREAD = 0.15   # skip if Kalshi bid/ask are wider than 15 points
 
 class Skip(Exception):
     pass
@@ -145,8 +145,6 @@ def spent(contract_id, answer_id=None):
     return sum(b.get("amount", 0) for b in bets)
 
 def check(e, label):
-    # per-entry overrides (gaps, margin and max_spread are in percentage
-    # points)
     min_gap = e.get("min_gap", MIN_GAP * 100) / 100
     max_gap = e.get("max_gap", MAX_GAP * 100) / 100
     margin = e.get("margin", MARGIN * 100) / 100
@@ -154,10 +152,6 @@ def check(e, label):
     cap = e.get("cap", MAX_PER_MARKET)
     max_spread = e.get("max_spread", MAX_KALSHI_SPREAD * 100) / 100
 
-    # "answer" = the answer's name on Manifold (multi-answer markets).
-    # "source_answer" = the name to look for on Kalshi/Polymarket, if it
-    # differs (or if the Manifold market is a plain yes/no).
-    # "invert" = true means flip the source's odds (100% minus).
     answer = e.get("answer")
     src_answer = e.get("source_answer", answer)
     raw = SOURCES[e["source"]](e["id"], src_answer)
@@ -214,12 +208,11 @@ def check(e, label):
         print("  cap reached:", round(used), "mana")
         return
 
-       outcome = "YES" if mid > current else "NO"
+    outcome = "YES" if mid > current else "NO"
     # Use the actual quoted side directly (no inverting): betting up
     # targets the bid, betting down targets the ask. For a single-value
     # source (Polymarket) bid==ask, so this is unchanged from before.
     raw_target = bid if outcome == "YES" else ask
-
 
     if outcome == "YES":
         limit = math.floor(round((raw_target - margin) * 100, 6)) / 100
