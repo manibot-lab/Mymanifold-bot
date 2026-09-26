@@ -211,15 +211,39 @@
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.48", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.48"},
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.56", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.56"},
   {"manifold": "gas-prices-in-the-us-in-sep-2026", "answer": "Above 4.46", "source": "kalshi", "id": "KXAAAGASM-26SEP30-4.46"},
-    {"manifold": "will-gukesh-win-the-2026-world-ches", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26", "source_answer": "Gukesh"},
+  {"manifold": "will-gukesh-win-the-2026-world-ches", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26", "source_answer": "Gukesh"},
   {"manifold": "who-will-win-the-2026-world-chess-c-qty9l85QZc", "answer": "Gukesh D", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26", "source_answer": "Gukesh"},
   {"manifold": "who-will-win-the-2026-world-chess-c-qty9l85QZc", "answer": "Javokhir Sindarov", "source": "kalshi_event", "id": "KXCHESSWORLDCHAMPION-CHESS26"},
-    {"manifold": "acx-2026-will-the-sp-500-close-abov", "source": "kalshi_event", "id": "KXINXDIRY-26DEC31H1600", "source_answer": "7500"},
-   {"manifold": "polymarket-clavicular-sentenced-to", "source": "polymarket", "id": "clavicular-sentenced-to-prison-114"}
- 
-
-
-
-
-
+  {"manifold": "acx-2026-will-the-sp-500-close-abov", "source": "kalshi_event", "id": "KXINXDIRY-26DEC31H1600", "source_answer": "7500"},
+  {"manifold": "polymarket-clavicular-sentenced-to", "source": "polymarket", "id": "clavicular-sentenced-to-prison-114"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Ryan Gosling", "source": "kalshi", "id": "KXOSCARNOMACTO-27-RYA"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Anthony Ippolito", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ANT"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Mahershala Ali", "source": "kalshi", "id": "KXOSCARNOMACTO-27-MAR"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Tom Cruise", "source": "kalshi", "id": "KXOSCARNOMACTO-27-TOM"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Robert Pattinson", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ROBER"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "John Turturro", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JOHN"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Sebastian Stan", "source": "kalshi", "id": "KXOSCARNOMACTO-27-SEB"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Pedro Pascal", "source": "kalshi", "id": "KXOSCARNOMACTO-27-PED"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Timoth\u00e9e Chalamet", "source": "kalshi", "id": "KXOSCARNOMACTO-27-TIM"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Andrew Garfield", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ANDR"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Jaafar Jackson", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JAA"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Jeremy Strong", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JER"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Andrew Scott", "source": "kalshi", "id": "KXOSCARNOMACTO-27-AND"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Guy Pearce", "source": "kalshi", "id": "KXOSCARNOMACTO-27-GUY"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Matt Damon", "source": "kalshi", "id": "KXOSCARNOMACTO-27-MAT"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Channing Tatum", "source": "kalshi", "id": "KXOSCARNOMACTO-27-CHAN"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Dominic Sessa", "source": "kalshi", "id": "KXOSCARNOMACTO-27-DOM"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Robert Aramayo", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ROB"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Sacha Baron Cohen", "source": "kalshi", "id": "KXOSCARNOMACTO-27-SAC"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "John Malkovich", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JOH"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Adam Driver", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ADA"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Brad Pitt", "source": "kalshi", "id": "KXOSCARNOMACTO-27-BRA"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Javier Bardem", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JAVI"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Keanu Reeves", "source": "kalshi", "id": "KXOSCARNOMACTO-27-KEA"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Sam Rockwell", "source": "kalshi", "id": "KXOSCARNOMACTO-27-SAM"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Adam Scott", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ADAM"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Tom Holland", "source": "kalshi", "id": "KXOSCARNOMACTO-27-TOMH"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Josh O'Connor", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JOS"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Ethan Hawke", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ETH"},
+  {"manifold": "oscar-nominees-best-actor", "answer": "Jeremy Allen White", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JERE"}
 ]
