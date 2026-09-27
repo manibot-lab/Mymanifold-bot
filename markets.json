@@ -245,5 +245,20 @@
   {"manifold": "oscar-nominees-best-actor", "answer": "Tom Holland", "source": "kalshi", "id": "KXOSCARNOMACTO-27-TOMH"},
   {"manifold": "oscar-nominees-best-actor", "answer": "Josh O'Connor", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JOS"},
   {"manifold": "oscar-nominees-best-actor", "answer": "Ethan Hawke", "source": "kalshi", "id": "KXOSCARNOMACTO-27-ETH"},
-  {"manifold": "oscar-nominees-best-actor", "answer": "Jeremy Allen White", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JERE"}
+  {"manifold": "oscar-nominees-best-actor", "answer": "Jeremy Allen White", "source": "kalshi", "id": "KXOSCARNOMACTO-27-JERE"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 55", "source": "kalshi", "id": "KXRT-DIG-55"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 50", "source": "kalshi", "id": "KXRT-DIG-50"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 45", "source": "kalshi", "id": "KXRT-DIG-45"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 60", "source": "kalshi", "id": "KXRT-DIG-60"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 65", "source": "kalshi", "id": "KXRT-DIG-65"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 40", "source": "kalshi", "id": "KXRT-DIG-40"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 70", "source": "kalshi", "id": "KXRT-DIG-70"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 35", "source": "kalshi", "id": "KXRT-DIG-35"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 75", "source": "kalshi", "id": "KXRT-DIG-75"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 80", "source": "kalshi", "id": "KXRT-DIG-80"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 30", "source": "kalshi", "id": "KXRT-DIG-30"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 85", "source": "kalshi", "id": "KXRT-DIG-85"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 90", "source": "kalshi", "id": "KXRT-DIG-90"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 20", "source": "kalshi", "id": "KXRT-DIG-20"},
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 25", "source": "kalshi", "id": "KXRT-DIG-25"}
 ]
