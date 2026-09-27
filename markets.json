@@ -260,5 +260,10 @@
   {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 85", "source": "kalshi", "id": "KXRT-DIG-85"},
   {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 90", "source": "kalshi", "id": "KXRT-DIG-90"},
   {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 20", "source": "kalshi", "id": "KXRT-DIG-20"},
-  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 25", "source": "kalshi", "id": "KXRT-DIG-25"}
+  {"manifold": "digger-rotten-tomatoes-score", "answer": "Above 25", "source": "kalshi", "id": "KXRT-DIG-25"},
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Fear", "source": "kalshi", "id": "KXFEAR-26OCT02-FEAR"},
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Neutral", "source": "kalshi", "id": "KXFEAR-26OCT02-NEUT"},
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-GREE"},
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Fear", "source": "kalshi", "id": "KXFEAR-26OCT02-XFEAR"},
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-XGREE"}
 ]
