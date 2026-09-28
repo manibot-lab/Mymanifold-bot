@@ -265,5 +265,7 @@
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Neutral", "source": "kalshi", "id": "KXFEAR-26OCT02-NEUT"},
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-GREE"},
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Fear", "source": "kalshi", "id": "KXFEAR-26OCT02-XFEAR"},
-  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-XGREE"}
+  {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-XGREE"},
+    {"manifold": "us-average-gas-price-is-44200-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.4200"}
+
 ]
