@@ -266,6 +266,15 @@
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-GREE"},
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Fear", "source": "kalshi", "id": "KXFEAR-26OCT02-XFEAR"},
   {"manifold": "fear-greed-index-on-oct-2-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26OCT02-XGREE"},
-    {"manifold": "us-average-gas-price-is-44200-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.4200"}
-
+  {"manifold": "us-average-gas-price-is-44200-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.4200"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Erling Haaland", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-ERL"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Bad Bunny", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-BAD"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Donald Trump", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-DON"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Savannah Guthrie", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-SAV"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Elon Musk", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-ELO"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Taylor Swift", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-TAY"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Zohran Mamdani", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26-ZOH"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Timoth\u00e9e Chalamet", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-TIM"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Lionel Messi", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-LIO"},
+  {"manifold": "1-searched-person-on-google-in-2026", "answer": "Luigi Mangione", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26-LUI"}
 ]
