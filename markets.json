@@ -287,5 +287,7 @@
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Charles Leclerc", "source": "kalshi", "id": "KXF1RACE-BAH26-LEC"},
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Lewis Hamilton", "source": "kalshi", "id": "KXF1RACE-BAH26-HAM"},
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Oscar Piastri", "source": "kalshi", "id": "KXF1RACE-BAH26-PIA"},
-  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Isack Hadjar", "source": "kalshi", "id": "KXF1RACE-BAH26-HAD"}
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Isack Hadjar", "source": "kalshi", "id": "KXF1RACE-BAH26-HAD"},
+  {"manifold": "nc11-house-winner", "answer": "Jamie Ager", "source": "kalshi", "id": "KXHOUSENC11-26-DEM"},
+  {"manifold": "nc11-house-winner", "answer": "Jennifer Balkcom", "source": "kalshi", "id": "KXHOUSENC11-26-GOP"}
 ]
