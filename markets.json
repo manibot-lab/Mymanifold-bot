@@ -278,6 +278,8 @@
   {"manifold": "1-searched-person-on-google-in-2026", "answer": "Lionel Messi", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-LIO"},
   {"manifold": "1-searched-person-on-google-in-2026", "answer": "Luigi Mangione", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26-LUI"},
     {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04"},
-  {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04", "source_answer": "Flávio Bolsonaro"}
+  {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04", "source_answer": "Flávio Bolsonaro"},
+    {"manifold": "us-average-gas-price-is-43800-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3800"}
+
 
 ]
