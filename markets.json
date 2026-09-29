@@ -277,9 +277,15 @@
   {"manifold": "1-searched-person-on-google-in-2026", "answer": "Timoth\u00e9e Chalamet", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-TIM"},
   {"manifold": "1-searched-person-on-google-in-2026", "answer": "Lionel Messi", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26DEC-LIO"},
   {"manifold": "1-searched-person-on-google-in-2026", "answer": "Luigi Mangione", "source": "kalshi", "id": "KXRANKLISTGOOGLESEARCH-26-LUI"},
-    {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04"},
-  {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04", "source_answer": "Flávio Bolsonaro"},
-    {"manifold": "us-average-gas-price-is-43800-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3800"}
-
-
+  {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Lula", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04"},
+  {"manifold": "who-will-win-the-first-round-of-the-ClCCAgnzEP", "answer": "Bolsonaro", "source": "kalshi_event", "id": "KXBRPRES1R-26OCT04", "source_answer": "Fl\u00e1vio Bolsonaro"},
+  {"manifold": "us-average-gas-price-is-43800-or-mo", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3800"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Andrea Kimi Antonelli", "source": "kalshi", "id": "KXF1RACE-BAH26-ANT"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "George Russell", "source": "kalshi", "id": "KXF1RACE-BAH26-RUS"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Max Verstappen", "source": "kalshi", "id": "KXF1RACE-BAH26-VER"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Lando Norris", "source": "kalshi", "id": "KXF1RACE-BAH26-NOR"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Charles Leclerc", "source": "kalshi", "id": "KXF1RACE-BAH26-LEC"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Lewis Hamilton", "source": "kalshi", "id": "KXF1RACE-BAH26-HAM"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Oscar Piastri", "source": "kalshi", "id": "KXF1RACE-BAH26-PIA"},
+  {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Isack Hadjar", "source": "kalshi", "id": "KXF1RACE-BAH26-HAD"}
 ]
