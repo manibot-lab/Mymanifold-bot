@@ -294,7 +294,16 @@
     {"manifold": "us-average-diesel-price-is-6000-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.00"},
     {"manifold": "us-average-diesel-price-is-6400-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.40"},
     {"manifold": "us-average-diesel-price-is-63000-or", "source": "kalshi_event", "id": "KXDIESELW-26OCT05", "source_answer": "6.30"},
-   {"manifold": "us-average-gas-price-is-4300-or-mor", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3000"}
+   {"manifold": "us-average-gas-price-is-4300-or-mor", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3000"},
+    {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Noah Wyle", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Bad Bunny", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Timothee Chalamet", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Travis Kelce", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Leonardo DiCaprio", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "David Attenborough", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "George Clooney", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"}
+
  
 
 
