@@ -303,7 +303,10 @@
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "David Attenborough", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "George Clooney", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
-    {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"}
+    {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"},
+    {"manifold": "who-will-be-elected-mayor-of-toront", "answer": "Olivia Chow", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26"},
+  {"manifold": "will-olivia-chow-be-reelected-mayor", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26", "source_answer": "Olivia Chow"}
+
 
 
  
