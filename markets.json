@@ -289,5 +289,7 @@
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Oscar Piastri", "source": "kalshi", "id": "KXF1RACE-BAH26-PIA"},
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Isack Hadjar", "source": "kalshi", "id": "KXF1RACE-BAH26-HAD"},
   {"manifold": "nc11-house-winner", "answer": "Jamie Ager", "source": "kalshi", "id": "KXHOUSENC11-26-DEM"},
-  {"manifold": "nc11-house-winner", "answer": "Jennifer Balkcom", "source": "kalshi", "id": "KXHOUSENC11-26-GOP"}
+  {"manifold": "nc11-house-winner", "answer": "Jennifer Balkcom", "source": "kalshi", "id": "KXHOUSENC11-26-GOP"},
+    {"manifold": "what-will-the-us-average-gas-price-NL6CqOhLhp", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 4.00", "invert": true}
+
 ]
