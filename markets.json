@@ -305,7 +305,10 @@
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
     {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"},
     {"manifold": "who-will-be-elected-mayor-of-toront", "answer": "Olivia Chow", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26"},
-  {"manifold": "will-olivia-chow-be-reelected-mayor", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26", "source_answer": "Olivia Chow"}
+  {"manifold": "will-olivia-chow-be-reelected-mayor", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26", "source_answer": "Olivia Chow"},
+    {"manifold": "which-party-will-win-the-holborn-an", "answer": "Labour", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Sagal Abdi-Wali"},
+  {"manifold": "which-party-will-win-the-holborn-an", "answer": "Green", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Zack Polanski"}
+
 
 
 
