@@ -293,7 +293,9 @@
     {"manifold": "what-will-the-us-average-gas-price-NL6CqOhLhp", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 4.00", "invert": true},
     {"manifold": "us-average-diesel-price-is-6000-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.00"},
     {"manifold": "us-average-diesel-price-is-6400-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.40"},
-    {"manifold": "us-average-diesel-price-is-63000-or", "source": "kalshi_event", "id": "KXDIESELW-26OCT05", "source_answer": "6.30"}
+    {"manifold": "us-average-diesel-price-is-63000-or", "source": "kalshi_event", "id": "KXDIESELW-26OCT05", "source_answer": "6.30"},
+   {"manifold": "us-average-gas-price-is-4300-or-mor", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3000"}
+ 
 
 
 
