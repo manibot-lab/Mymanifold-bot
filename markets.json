@@ -302,7 +302,9 @@
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Leonardo DiCaprio", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "David Attenborough", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "George Clooney", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
-  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"}
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+    {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"}
+
 
  
 
