@@ -290,12 +290,12 @@
   {"manifold": "bahrain-grand-prix-main-race-winner", "answer": "Isack Hadjar", "source": "kalshi", "id": "KXF1RACE-BAH26-HAD"},
   {"manifold": "nc11-house-winner", "answer": "Jamie Ager", "source": "kalshi", "id": "KXHOUSENC11-26-DEM"},
   {"manifold": "nc11-house-winner", "answer": "Jennifer Balkcom", "source": "kalshi", "id": "KXHOUSENC11-26-GOP"},
-    {"manifold": "what-will-the-us-average-gas-price-NL6CqOhLhp", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 4.00", "invert": true},
-    {"manifold": "us-average-diesel-price-is-6000-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.00"},
-    {"manifold": "us-average-diesel-price-is-6400-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.40"},
-    {"manifold": "us-average-diesel-price-is-63000-or", "source": "kalshi_event", "id": "KXDIESELW-26OCT05", "source_answer": "6.30"},
-   {"manifold": "us-average-gas-price-is-4300-or-mor", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3000"},
-    {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Noah Wyle", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
+  {"manifold": "what-will-the-us-average-gas-price-NL6CqOhLhp", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASED-26NOV03", "source_answer": "Above 4.00", "invert": true},
+  {"manifold": "us-average-diesel-price-is-6000-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.00"},
+  {"manifold": "us-average-diesel-price-is-6400-or", "source": "kalshi_event", "id": "KXDIESELELECT-26NOV03", "source_answer": "6.40"},
+  {"manifold": "us-average-diesel-price-is-63000-or", "source": "kalshi_event", "id": "KXDIESELW-26OCT05", "source_answer": "6.30"},
+  {"manifold": "us-average-gas-price-is-4300-or-mor", "source": "kalshi_event", "id": "KXAAAGASW-26OCT05", "source_answer": "4.3000"},
+  {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Noah Wyle", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Bad Bunny", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Timothee Chalamet", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Travis Kelce", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
@@ -303,20 +303,18 @@
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "David Attenborough", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "George Clooney", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
   {"manifold": "peoples-magazine-2026-sexiest-man-a", "answer": "Hasan Piker", "source": "kalshi_event", "id": "KXSEXYMAN-26"},
-    {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"},
-    {"manifold": "who-will-be-elected-mayor-of-toront", "answer": "Olivia Chow", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26"},
+  {"manifold": "will-ken-sim-be-reelected-mayor-of", "source": "kalshi_event", "id": "KXVANCOUVERMAYOR-26OCT17", "source_answer": "Ken Sim"},
+  {"manifold": "who-will-be-elected-mayor-of-toront", "answer": "Olivia Chow", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26"},
   {"manifold": "will-olivia-chow-be-reelected-mayor", "source": "kalshi_event", "id": "KXTORONTOMAYOR-26OCT26", "source_answer": "Olivia Chow"},
-    {"manifold": "which-party-will-win-the-holborn-an", "answer": "Labour", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Sagal Abdi-Wali"},
+  {"manifold": "which-party-will-win-the-holborn-an", "answer": "Labour", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Sagal Abdi-Wali"},
   {"manifold": "which-party-will-win-the-holborn-an", "answer": "Green", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Zack Polanski"},
-    {"manifold": "will-labour-win-the-2026-holborn-an", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Sagal Abdi-Wali"}
-
-
-
-
-
- 
-
-
-
-
+  {"manifold": "will-labour-win-the-2026-holborn-an", "source": "polymarket_event", "id": "holborn-and-st-pancras-by-election-winner", "source_answer": "Sagal Abdi-Wali"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.3600", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.3600"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.3800", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.3800"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.3400", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.3400"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.3200", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.3200"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.4000", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.4000"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.4200", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.4200"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.3000", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.3000"},
+  {"manifold": "us-gas-prices-this-week", "answer": "Above 4.4400", "source": "kalshi", "id": "KXAAAGASW-26OCT05-4.4400"}
 ]
