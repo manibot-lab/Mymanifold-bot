@@ -346,5 +346,14 @@
   {"manifold": "who-will-leave-their-role-in-the-tr", "answer": "Jamieson Greer", "source": "kalshi", "id": "KXTRUMPADMINLEAVE-26DEC31-JGRE"},
   {"manifold": "who-will-leave-their-role-in-the-tr", "answer": "Scott Bessent", "source": "kalshi", "id": "KXTRUMPADMINLEAVE-26DEC31-SBES"},
   {"manifold": "who-will-leave-their-role-in-the-tr", "answer": "Amy Gleason", "source": "kalshi", "id": "KXTRUMPADMINLEAVE-26DEC31-AGLE"},
-  {"manifold": "who-will-leave-their-role-in-the-tr", "answer": "Marco Rubio", "source": "kalshi", "id": "KXTRUMPADMINLEAVE-26DEC31-MRUB"}
+  {"manifold": "who-will-leave-their-role-in-the-tr", "answer": "Marco Rubio", "source": "kalshi", "id": "KXTRUMPADMINLEAVE-26DEC31-MRUB"},
+  {"manifold": "what-ticker-will-anthropic-use", "answer": "ANTH", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "ANTH"},
+  {"manifold": "what-ticker-will-anthropic-use", "answer": "ANT", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "ANT"},
+  {"manifold": "what-ticker-will-anthropic-use", "answer": "CLDE", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "CLDE"},
+  {"manifold": "what-will-anthropics-public-ticker", "answer": "$ANTH", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "ANTH"},
+  {"manifold": "what-will-anthropics-public-ticker", "answer": "$CLAU", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "CLAU"},
+  {"manifold": "what-will-anthropics-public-ticker", "answer": "$ANT", "source": "polymarket_event", "id": "what-will-anthropics-public-ticker-be", "source_answer": "ANT"}
+
+
+  
 ]
