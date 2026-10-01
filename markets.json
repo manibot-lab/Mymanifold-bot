@@ -368,5 +368,9 @@
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Sergio Perez", "source": "kalshi", "id": "KXF1TOP10-BAH26-PER"},
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Valtteri Bottas", "source": "kalshi", "id": "KXF1TOP10-BAH26-BOT"},
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Fernando Alonso", "source": "kalshi", "id": "KXF1TOP10-BAH26-ALO"},
-  {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Lance Stroll", "source": "kalshi", "id": "KXF1TOP10-BAH26-STR"}
+  {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Lance Stroll", "source": "kalshi", "id": "KXF1TOP10-BAH26-STR"},
+  {"manifold": "bitcoin-8600000-before-eod-october", "source": "polymarket_event", "id": "what-price-will-bitcoin-hit-september-28-october-4-2026", "source_answer": "↑ 86,000"}
+
+
+  
 ]
