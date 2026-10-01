@@ -14,7 +14,7 @@ MARGIN = 0.025             # stop 2.5 points short of the source's odds
 BET_AMOUNT = 125           # mana per bet
 MAX_PER_MARKET = 2000       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
-MIN_KALSHI_VOLUME = 100   # Kalshi contracts traded
+MIN_KALSHI_VOLUME = 25   # Kalshi contracts traded
 MAX_KALSHI_SPREAD = 0.33   # skip if Kalshi bid/ask are wider than 15 points
 
 class Skip(Exception):
