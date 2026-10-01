@@ -369,7 +369,26 @@
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Valtteri Bottas", "source": "kalshi", "id": "KXF1TOP10-BAH26-BOT"},
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Fernando Alonso", "source": "kalshi", "id": "KXF1TOP10-BAH26-ALO"},
   {"manifold": "bahrain-grand-prix-main-race-top-10", "answer": "Lance Stroll", "source": "kalshi", "id": "KXF1TOP10-BAH26-STR"},
-  {"manifold": "bitcoin-8600000-before-eod-october", "source": "polymarket_event", "id": "what-price-will-bitcoin-hit-september-28-october-4-2026", "source_answer": "↑ 86,000"}
+  {"manifold": "bitcoin-8600000-before-eod-october", "source": "polymarket_event", "id": "what-price-will-bitcoin-hit-september-28-october-4-2026", "source_answer": "↑ 86,000"},
+  {"manifold": "ipos-in-2026", "answer": "Anthropic", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Anthropic"},
+{"manifold": "ipos-in-2026", "answer": "Mistral AI", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Mistral AI"},
+{"manifold": "ipos-in-2026", "answer": "Vanta", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Vanta"},
+{"manifold": "ipos-in-2026", "answer": "Applied Intuition", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Applied Intuition"},
+{"manifold": "ipos-in-2026", "answer": "Ripple Labs", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Ripple Labs"},
+{"manifold": "ipos-in-2026", "answer": "Glean", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Glean"},
+{"manifold": "ipos-in-2026", "answer": "Deel", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Deel"},
+{"manifold": "ipos-in-2026", "answer": "Remote", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Remote"},
+{"manifold": "ipos-in-2026", "answer": "Anduril", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Anduril"},
+{"manifold": "ipos-in-2026", "answer": "Stripe", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Stripe"},
+{"manifold": "ipos-in-2026", "answer": "Discord", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Discord"},
+{"manifold": "ipos-in-2026", "answer": "Ramp", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Ramp"},
+{"manifold": "ipos-in-2026", "answer": "Celonis", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Celonis"},
+{"manifold": "ipos-in-2026", "answer": "Freddie Mac", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Freddie Mac"},
+{"manifold": "ipos-in-2026", "answer": "Fannie Mae", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Fannie Mae"},
+{"manifold": "ipos-in-2026", "answer": "Databricks", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Databricks"},
+{"manifold": "ipos-in-2026", "answer": "OpenAI", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "OpenAI"},
+{"manifold": "ipos-in-2026", "answer": "Brex", "source": "polymarket_event", "id": "ipos-before-2027", "source_answer": "Brex"}
+
 
 
   
