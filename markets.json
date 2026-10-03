@@ -412,5 +412,15 @@
   {"manifold": "when-will-openai-release-astra-61", "answer": "Before Nov 13, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26NOV13"},
   {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 30, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT30"},
   {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 23, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT23"},
-  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 16, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT16"}
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 16, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT16"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Sacramento, CA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-SAC"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Tampa, FL", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-TAM"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Las Vegas, NV", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-LAS"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Denver, CO", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-DEN"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "San Diego, CA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-SAN"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Detroit, MI", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-DET"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Charlotte, NC", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-CHAR"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "St. Louis, MO", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-STL"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Seattle, WA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-SEA"},
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Philadelphia, PA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-PHIL"}
 ]
