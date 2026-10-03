@@ -393,5 +393,13 @@
   {"manifold": "alaska-governor-margin-of-victory", "answer": "Democrats, 11+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-AKGOVD-P11"},
   {"manifold": "alaska-governor-margin-of-victory", "answer": "Democrats, 2+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-AKGOVD-P2"},
   {"manifold": "alaska-governor-margin-of-victory", "answer": "Democrats, 14+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-AKGOVD-P14"},
-  {"manifold": "alaska-governor-margin-of-victory", "answer": "Democrats, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-AKGOVD-P17"}
+  {"manifold": "alaska-governor-margin-of-victory", "answer": "Democrats, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-AKGOVD-P17"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Summer Lee", "source": "kalshi", "id": "KXSENATEPAD-28-SLEE"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Brendan Boyle", "source": "kalshi", "id": "KXSENATEPAD-28-BBOY"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Chris Deluzio", "source": "kalshi", "id": "KXSENATEPAD-28-CDEL"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Conor Lamb", "source": "kalshi", "id": "KXSENATEPAD-28-CLAM"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "John Fetterman", "source": "kalshi", "id": "KXSENATEPAD-28-JFET"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Susan Wild", "source": "kalshi", "id": "KXSENATEPAD-28-SWIL"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Chris Rabb", "source": "kalshi", "id": "KXSENATEPAD-28-CRAB"},
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Bob Casey Jr.", "source": "kalshi", "id": "KXSENATEPAD-28-BCAS"}
 ]
