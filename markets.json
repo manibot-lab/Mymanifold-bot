@@ -422,5 +422,8 @@
   {"manifold": "where-will-waymo-operate-in-2026", "answer": "Charlotte, NC", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-CHAR"},
   {"manifold": "where-will-waymo-operate-in-2026", "answer": "St. Louis, MO", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-STL"},
   {"manifold": "where-will-waymo-operate-in-2026", "answer": "Seattle, WA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-SEA"},
-  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Philadelphia, PA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-PHIL"}
+  {"manifold": "where-will-waymo-operate-in-2026", "answer": "Philadelphia, PA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-PHIL"},
+  {"manifold": "who-will-win-the-arizona-attorney-g", "answer": "Kris Mayes", "source": "kalshi", "id": "KXATTYGENAZ-26-D"},
+{"manifold": "who-will-win-the-arizona-attorney-g", "answer": "Warren Petersen", "source": "kalshi", "id": "KXATTYGENAZ-26-R"}
+
 ]
