@@ -445,6 +445,8 @@
   {"manifold": "gold-price-at-year-end", "answer": "5,100 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5100"},
   {"manifold": "gold-price-at-year-end", "answer": "5,000 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5000"},
   {"manifold": "gold-price-at-year-end", "answer": "5,200 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5200"},
-  {"manifold": "who-will-trump-announce-as-his-new", "answer": "Jay Clayton", "source": "kalshi", "id": "KXTRUMPAICZAR-26SEP-JCLA"}
-
+  {"manifold": "who-will-trump-announce-as-his-new", "answer": "Jay Clayton", "source": "kalshi", "id": "KXTRUMPAICZAR-26SEP-JCLA"},
+  {"manifold": "gta-vi-online-release-date", "answer": "Before July 2027", "source": "kalshi", "id": "KXGTAONLINE-GTA6ONLINE-27B"},
+  {"manifold": "gta-vi-online-release-date", "answer": "Before 2028", "source": "kalshi", "id": "KXGTAONLINE-GTA6ONLINE-28"},
+  {"manifold": "gta-vi-online-release-date", "answer": "Before 2027", "source": "kalshi", "id": "KXGTAONLINE-GTA6ONLINE-27"}
 ]
