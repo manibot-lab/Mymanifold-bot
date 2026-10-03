@@ -401,5 +401,11 @@
   {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "John Fetterman", "source": "kalshi", "id": "KXSENATEPAD-28-JFET"},
   {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Susan Wild", "source": "kalshi", "id": "KXSENATEPAD-28-SWIL"},
   {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Chris Rabb", "source": "kalshi", "id": "KXSENATEPAD-28-CRAB"},
-  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Bob Casey Jr.", "source": "kalshi", "id": "KXSENATEPAD-28-BCAS"}
+  {"manifold": "pennsylvania-democratic-senate-nomi", "answer": "Bob Casey Jr.", "source": "kalshi", "id": "KXSENATEPAD-28-BCAS"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 10", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-10"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 11", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-11"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 9", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-9"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 12", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-12"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 8", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-8"},
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 13", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-13"}
 ]
