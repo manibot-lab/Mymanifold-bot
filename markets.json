@@ -434,5 +434,15 @@
   {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 50", "source": "kalshi", "id": "KXRT-SOC-50"},
   {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 85", "source": "kalshi", "id": "KXRT-SOC-85"},
   {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 45", "source": "kalshi", "id": "KXRT-SOC-45"},
-  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 90", "source": "kalshi", "id": "KXRT-SOC-90"}
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 90", "source": "kalshi", "id": "KXRT-SOC-90"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,300 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4300"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,400 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4400"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,500 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4500"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,600 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4600"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,700 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4700"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,800 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4800"},
+  {"manifold": "gold-price-at-year-end", "answer": "4,900 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4900"},
+  {"manifold": "gold-price-at-year-end", "answer": "5,100 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5100"},
+  {"manifold": "gold-price-at-year-end", "answer": "5,000 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5000"},
+  {"manifold": "gold-price-at-year-end", "answer": "5,200 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5200"}
 ]
