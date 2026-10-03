@@ -444,5 +444,7 @@
   {"manifold": "gold-price-at-year-end", "answer": "4,900 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T4900"},
   {"manifold": "gold-price-at-year-end", "answer": "5,100 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5100"},
   {"manifold": "gold-price-at-year-end", "answer": "5,000 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5000"},
-  {"manifold": "gold-price-at-year-end", "answer": "5,200 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5200"}
+  {"manifold": "gold-price-at-year-end", "answer": "5,200 or above", "source": "kalshi", "id": "KXGOLDDIRY-26DEC31H1700-T5200"},
+  {"manifold": "who-will-trump-announce-as-his-new", "answer": "Jay Clayton", "source": "kalshi", "id": "KXTRUMPAICZAR-26SEP-JCLA"}
+
 ]
