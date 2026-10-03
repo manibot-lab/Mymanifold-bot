@@ -424,6 +424,15 @@
   {"manifold": "where-will-waymo-operate-in-2026", "answer": "Seattle, WA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-SEA"},
   {"manifold": "where-will-waymo-operate-in-2026", "answer": "Philadelphia, PA", "source": "kalshi", "id": "KXWAYMOCITY-26DEC-PHIL"},
   {"manifold": "who-will-win-the-arizona-attorney-g", "answer": "Kris Mayes", "source": "kalshi", "id": "KXATTYGENAZ-26-D"},
-{"manifold": "who-will-win-the-arizona-attorney-g", "answer": "Warren Petersen", "source": "kalshi", "id": "KXATTYGENAZ-26-R"}
-
+  {"manifold": "who-will-win-the-arizona-attorney-g", "answer": "Warren Petersen", "source": "kalshi", "id": "KXATTYGENAZ-26-R"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 70", "source": "kalshi", "id": "KXRT-SOC-70"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 75", "source": "kalshi", "id": "KXRT-SOC-75"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 65", "source": "kalshi", "id": "KXRT-SOC-65"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 80", "source": "kalshi", "id": "KXRT-SOC-80"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 60", "source": "kalshi", "id": "KXRT-SOC-60"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 55", "source": "kalshi", "id": "KXRT-SOC-55"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 50", "source": "kalshi", "id": "KXRT-SOC-50"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 85", "source": "kalshi", "id": "KXRT-SOC-85"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 45", "source": "kalshi", "id": "KXRT-SOC-45"},
+  {"manifold": "the-social-reckoning-rotten-tomatoe", "answer": "Above 90", "source": "kalshi", "id": "KXRT-SOC-90"}
 ]
