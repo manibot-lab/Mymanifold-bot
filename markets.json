@@ -407,5 +407,10 @@
   {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 9", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-9"},
   {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 12", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-12"},
   {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 8", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-8"},
-  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 13", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-13"}
+  {"manifold": "how-many-launches-will-spacex-have", "answer": "Above 13", "source": "kalshi", "id": "KXSPACEXCOUNT-26OCT-13"},
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Nov 6, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26NOV06"},
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Nov 13, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26NOV13"},
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 30, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT30"},
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 23, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT23"},
+  {"manifold": "when-will-openai-release-astra-61", "answer": "Before Oct 16, 2026", "source": "kalshi", "id": "KXGPT-ASTRA61-26OCT16"}
 ]
