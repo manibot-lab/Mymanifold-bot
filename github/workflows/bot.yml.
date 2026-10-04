@@ -1,7 +1,7 @@
 name: Manifold bot
 on:
   schedule:
-    - cron: "*/15 * * * *"
+   - cron: "7,37 * * * *"
   workflow_dispatch:
 jobs:
   run:
