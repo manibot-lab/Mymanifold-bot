@@ -462,6 +462,9 @@
   {"manifold": "grammy-nominees-song-of-the-year", "answer": "the cure", "source": "kalshi", "id": "KXGRAMMYNOMSOTY-69-CUR"},
   {"manifold": "largest-ipo-by-market-cap-in-2026-g2N6295UzR", "answer": "Anthropic", "source": "polymarket_event", "id": "largest-ipo-by-market-cap-in-2026-287", "source_answer": "Anthropic"},
 {"manifold": "largest-ipo-by-market-cap-in-2026-g2N6295UzR", "answer": "SpaceX", "source": "polymarket_event", "id": "largest-ipo-by-market-cap-in-2026-287", "source_answer": "SpaceX"},
-{"manifold": "largest-ipo-by-market-cap-in-2026-g2N6295UzR", "answer": "OpenAi", "source": "polymarket_event", "id": "largest-ipo-by-market-cap-in-2026-287", "source_answer": "OpenAI"}
+{"manifold": "largest-ipo-by-market-cap-in-2026-g2N6295UzR", "answer": "OpenAi", "source": "polymarket_event", "id": "largest-ipo-by-market-cap-in-2026-287", "source_answer": "OpenAI"},
+  {"manifold": "us-average-gas-price-on-october-12", "answer": "$4.3400 or less", "source": "kalshi_event", "id": "KXAAAGASW-26OCT12", "source_answer": "4.3400", "invert": true},
+{"manifold": "us-average-gas-price-on-october-12", "answer": "$4.4001 or higher", "source": "kalshi_event", "id": "KXAAAGASW-26OCT12", "source_answer": "4.4000"}
+
 
 ]
