@@ -471,5 +471,20 @@
   {"manifold": "how-high-will-btc-get-in-october", "answer": "Above $95,000.00", "source": "kalshi", "id": "KXBTCMAXMON-BTC-26OCT31-9500000"},
   {"manifold": "how-high-will-btc-get-in-october", "answer": "Above $97,500.00", "source": "kalshi", "id": "KXBTCMAXMON-BTC-26OCT31-9750000"},
   {"manifold": "how-high-will-btc-get-in-october", "answer": "Above $100,000.00", "source": "kalshi", "id": "KXBTCMAXMON-BTC-26OCT31-10000000"},
-  {"manifold": "how-high-will-btc-get-in-october", "answer": "Above $102,500.00", "source": "kalshi", "id": "KXBTCMAXMON-BTC-26OCT31-10250000"}
+  {"manifold": "how-high-will-btc-get-in-october", "answer": "Above $102,500.00", "source": "kalshi", "id": "KXBTCMAXMON-BTC-26OCT31-10250000"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 13+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P13"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 15+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P15"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 11+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P11"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P17"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 19+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P19"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 9+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P9"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 23+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P23"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 35+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P35"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 7+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P7"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 21+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P21"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P25"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 27+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P27"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P5"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 3+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P3"},
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 29+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P29"}
 ]
