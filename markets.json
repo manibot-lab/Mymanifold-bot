@@ -480,5 +480,8 @@
   {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 27+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P27"},
   {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P5"},
   {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 3+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P3"},
-  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 29+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P29"}
+  {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 29+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P29"},
+  {"manifold": "who-will-hold-more-governorships-af", "answer": "Democratic Party", "source": "kalshi", "id": "KXGOVWINS-27JAN01-R-50"},
+  {"manifold": "who-will-hold-more-governorships-af", "answer": "Republican Party", "source": "kalshi", "id": "KXGOVWINS-27JAN01-R1"},
+  {"manifold": "who-will-hold-more-governorships-af", "answer": "Tie", "source": "kalshi", "id": "KXGOVWINS-27JAN01-E0"}
 ]
