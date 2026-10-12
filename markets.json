@@ -477,7 +477,17 @@
   {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 3+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P3"},
   {"manifold": "idaho-senate-margin-of-victory", "answer": "Risch, 29+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-IDSENR-P29"},
   {"manifold": "us-gas-price-on-october-12", "answer": "4.3502 or above?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT12", "source_answer": "4.3500"},
-{"manifold": "us-gas-price-on-october-12", "answer": "4.3602 or above?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT12", "source_answer": "4.3600"}
+{"manifold": "us-gas-price-on-october-12", "answer": "4.3602 or above?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT12", "source_answer": "4.3600"},
+  {"manifold": "gas-price-on-october-19", "answer": "4.2799 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.2800"},
+{"manifold": "gas-price-on-october-19", "answer": "4.2999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.3000"},
+{"manifold": "gas-price-on-october-19", "answer": "4.3799 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.3800"},
+{"manifold": "gas-price-on-october-19", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.4000"},
+{"manifold": "gas-price-on-october-19", "answer": "4.4199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.4200"},
+  {"manifold": "gas-price-on-october-19", "answer": "4.3199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.3200"},
+{"manifold": "gas-price-on-october-19", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.3400"},
+{"manifold": "gas-price-on-october-19", "answer": "4.3599 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT19", "source_answer": "4.3600"}
+
+
 
   
 ]
