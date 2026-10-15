@@ -504,5 +504,14 @@
   {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-26"},
   {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 38%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-38"},
   {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-22"},
-  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-24"}
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-24"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 66%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-66"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 64%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-64"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 68%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-68"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 62%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-62"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 70%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-70"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 72%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-72"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 74%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-74"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 76%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-76"},
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 78%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-78"}
 ]
