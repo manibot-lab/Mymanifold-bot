@@ -495,5 +495,14 @@
   {"manifold": "the-hunger-games-sunrise-on-the-rea", "answer": "Above 55", "source": "kalshi", "id": "KXRT-HUN-55"},
   {"manifold": "the-hunger-games-sunrise-on-the-rea", "answer": "Above 90", "source": "kalshi", "id": "KXRT-HUN-90"},
   {"manifold": "the-hunger-games-sunrise-on-the-rea", "answer": "Above 50", "source": "kalshi", "id": "KXRT-HUN-50"},
-  {"manifold": "the-hunger-games-sunrise-on-the-rea", "answer": "Above 45", "source": "kalshi", "id": "KXRT-HUN-45"}
+  {"manifold": "the-hunger-games-sunrise-on-the-rea", "answer": "Above 45", "source": "kalshi", "id": "KXRT-HUN-45"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 32%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-32"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 30%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-30"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 34%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-34"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 28%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-28"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 36%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-36"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-26"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 38%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-38"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-22"},
+  {"manifold": "wyal-house-election-lisa-kinney-vot", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26LKIN-24"}
 ]
