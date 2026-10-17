@@ -513,5 +513,7 @@
   {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 72%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-72"},
   {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 74%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-74"},
   {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 76%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-76"},
-  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 78%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-78"}
+  {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 78%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-78"},
+  {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Deel", "source": "kalshi", "id": "KXDEELRIP-40-DEEL"},
+  {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Rippling", "source": "kalshi", "id": "KXDEELRIP-40-RIPP"}
 ]
