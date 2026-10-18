@@ -45,5 +45,20 @@
       "45-49"
     ],
     "created_at": "2026-10-18T08:40:12.485353+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/nz-election-labour-party-of-seats",
+    "manifold_url": "https://manifold.markets/Fastcar99/nz-election-labour-party-of-seats",
+    "title": "NZ Election: Labour Party # of seats?",
+    "answers": [
+      "35-39",
+      "30-34",
+      "40-44",
+      "<30",
+      "45-49",
+      "55+",
+      "50-54"
+    ],
+    "created_at": "2026-10-18T08:41:32.359552+00:00"
   }
 ]
