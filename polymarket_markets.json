@@ -30,5 +30,20 @@
     "title": "NZ election: Labour v National (% of Party List Vote)",
     "answers": null,
     "created_at": "2026-10-18T08:35:06.698649+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/nz-election-national-party-of-seats",
+    "manifold_url": "https://manifold.markets/Fastcar99/nz-election-national-party-of-seats",
+    "title": "NZ Election: National Party # of seats?",
+    "answers": [
+      "35-39",
+      "30-34",
+      "40-44",
+      "25-29",
+      "50+",
+      "<25",
+      "45-49"
+    ],
+    "created_at": "2026-10-18T08:40:12.485353+00:00"
   }
 ]
