@@ -1,0 +1,60 @@
+name: Create market from Polymarket link
+on:
+  workflow_dispatch:
+    inputs:
+      polymarket_url:
+        description: "Polymarket link"
+        required: true
+      create:
+        description: "Tick to really create it (untick = preview only)"
+        type: boolean
+        default: false
+      max_answers:
+        description: "Most answers for multi-answer markets"
+        default: "10"
+      liquidity_tier:
+        description: "Liquidity tier (check Manifold's create-market page for valid values, e.g. 100, 1000, 10000)"
+        default: "100"
+      allow_duplicate:
+        description: "Tick to allow creating a market even if one with this exact title already exists"
+        type: boolean
+        default: false
+      include_other:
+        description: "Tick to add an 'Other' answer for probability not covered by the answers you picked"
+        type: boolean
+        default: false
+      sum_to_one:
+        description: "Only one answer can win? true / false / leave blank to use Polymarket's own setting"
+        default: ""
+      allow_new_answers:
+        description: "Tick to let people add new answers on Manifold after creation (off = locked to your picks + Other)"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: polymarket-markets-file
+  cancel-in-progress: false
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - run: python create_polymarket_market.py
+        env:
+          MANIFOLD_KEY: ${{ secrets.MANIFOLD_KEY }}
+          POLYMARKET_URL: ${{ inputs.polymarket_url }}
+          CREATE: ${{ inputs.create }}
+          MAX_ANSWERS: ${{ inputs.max_answers }}
+          LIQUIDITY_TIER: ${{ inputs.liquidity_tier }}
+          ALLOW_DUPLICATE: ${{ inputs.allow_duplicate }}
+          INCLUDE_OTHER: ${{ inputs.include_other }}
+          SUM_TO_ONE: ${{ inputs.sum_to_one }}
+          ALLOW_NEW_ANSWERS: ${{ inputs.allow_new_answers }}
+      - name: Save polymarket_markets.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add polymarket_markets.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "no changes"; else git commit -m "Add market from Polymarket link" && git push; fi
