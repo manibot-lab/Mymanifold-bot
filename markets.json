@@ -517,5 +517,14 @@
   {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Deel", "source": "kalshi", "id": "KXDEELRIP-40-DEEL"},
   {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Rippling", "source": "kalshi", "id": "KXDEELRIP-40-RIPP"},
   {"manifold": "massachusetts-governor-winner", "answer": "Mike Minogue", "source": "kalshi", "id": "GOVPARTYMA-26-R"},
-  {"manifold": "massachusetts-governor-winner", "answer": "Maura Healey", "source": "kalshi", "id": "GOVPARTYMA-26-D"}
+  {"manifold": "massachusetts-governor-winner", "answer": "Maura Healey", "source": "kalshi", "id": "GOVPARTYMA-26-D"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 26+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P26"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 23+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P23"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 29+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P29"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P20"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P17"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 32+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P32"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 14+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P14"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 35+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P35"},
+  {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 38+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P38"}
 ]
