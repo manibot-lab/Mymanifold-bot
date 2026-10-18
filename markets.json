@@ -515,5 +515,7 @@
   {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 76%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-76"},
   {"manifold": "wyal-house-election-chuck-gray-vote", "answer": "At least 78%", "source": "kalshi", "id": "KXVOTEGENERAL-KXHOUSERACE-WYAL-26CGRA-78"},
   {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Deel", "source": "kalshi", "id": "KXDEELRIP-40-DEEL"},
-  {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Rippling", "source": "kalshi", "id": "KXDEELRIP-40-RIPP"}
+  {"manifold": "will-deel-or-rippling-ipo-first", "answer": "Rippling", "source": "kalshi", "id": "KXDEELRIP-40-RIPP"},
+  {"manifold": "massachusetts-governor-winner", "answer": "Mike Minogue", "source": "kalshi", "id": "GOVPARTYMA-26-R"},
+  {"manifold": "massachusetts-governor-winner", "answer": "Maura Healey", "source": "kalshi", "id": "GOVPARTYMA-26-D"}
 ]
