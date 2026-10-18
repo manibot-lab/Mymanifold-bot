@@ -1,0 +1,20 @@
+[
+  {
+    "polymarket_url": "https://polymarket.com/event/virginia-senate-margin-of-victory-2026",
+    "manifold_url": "https://manifold.markets/Fastcar99/virginia-senate-election-margin-of",
+    "title": "Virginia Senate Election Margin of Victory",
+    "answers": [
+      "Democrat 21%+",
+      "Democrat 18-21%",
+      "Democrat 15-18%",
+      "Democrat 12-15%",
+      "Democrat 3-6%",
+      "Democrat 9-12%",
+      "Democrat 0-3%",
+      "Republican 0-3%",
+      "Democrat 6-9%",
+      "Republican 3%+"
+    ],
+    "created_at": "2026-10-18T00:18:45.793359+00:00"
+  }
+]
