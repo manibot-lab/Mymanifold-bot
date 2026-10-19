@@ -550,5 +550,7 @@
   {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 42%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-42"},
   {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 28%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-28"},
   {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 44%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-44"},
-  {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 46%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-46"}
+  {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 46%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-46"},
+  {"manifold": "tarrant-county-judge-winner", "answer": "Tim O'Hare", "source": "kalshi", "id": "KXTARRANTCOUNTYJUDGE-26-TOHA"},
+  {"manifold": "tarrant-county-judge-winner", "answer": "Alisa Simmons", "source": "kalshi", "id": "KXTARRANTCOUNTYJUDGE-26-ASIM"}
 ]
