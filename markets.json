@@ -552,5 +552,12 @@
   {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 44%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-44"},
   {"manifold": "colorado-governor-election-victor-m-nunqUCdulI", "answer": "At least 46%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVPARTYCO-26VMAR-46"},
   {"manifold": "tarrant-county-judge-winner", "answer": "Tim O'Hare", "source": "kalshi", "id": "KXTARRANTCOUNTYJUDGE-26-TOHA"},
-  {"manifold": "tarrant-county-judge-winner", "answer": "Alisa Simmons", "source": "kalshi", "id": "KXTARRANTCOUNTYJUDGE-26-ASIM"}
+  {"manifold": "tarrant-county-judge-winner", "answer": "Alisa Simmons", "source": "kalshi", "id": "KXTARRANTCOUNTYJUDGE-26-ASIM"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Houston", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-HOU"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Burke", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-BUR"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Peach", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-PEA"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Lowndes", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-LOW"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Baldwin", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-BAL"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Fayette", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-FAY"},
+  {"manifold": "georgia-senate-which-counties-will", "answer": "Spalding", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATEGA-26-SPA"}
 ]
