@@ -528,5 +528,7 @@
   {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 35+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P35"},
   {"manifold": "massachusetts-governor-margin-of-vi", "answer": "Healey, 38+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MAGOVD-P38"},
   {"manifold": "oklahoma-attorney-general-winner", "answer": "Jon Echols", "source": "kalshi", "id": "KXATTYGENOK-26-R"},
-  {"manifold": "oklahoma-attorney-general-winner", "answer": "Nick Coffey", "source": "kalshi", "id": "KXATTYGENOK-26-D"}
+  {"manifold": "oklahoma-attorney-general-winner", "answer": "Nick Coffey", "source": "kalshi", "id": "KXATTYGENOK-26-D"},
+  {"manifold": "oklahoma-attorney-general-winner-PEO8pEhhpp", "answer": "Jon Echols", "source": "kalshi", "id": "KXATTYGENOK-26-R"},
+  {"manifold": "oklahoma-attorney-general-winner-PEO8pEhhpp", "answer": "Nick Coffey", "source": "kalshi", "id": "KXATTYGENOK-26-D"}
 ]
