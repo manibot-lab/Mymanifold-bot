@@ -575,5 +575,11 @@
   {"manifold": "texas-senate-which-counties-will-ja", "answer": "Bastrop", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATETX-26-BAST"},
   {"manifold": "texas-senate-which-counties-will-ja", "answer": "Brazoria", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATETX-26-BRAZ"},
   {"manifold": "texas-senate-which-counties-will-ja", "answer": "Tarrant", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATETX-26-TARR"},
-  {"manifold": "texas-senate-which-counties-will-ja", "answer": "Fort Bend", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATETX-26-FTBE"}
+  {"manifold": "texas-senate-which-counties-will-ja", "answer": "Fort Bend", "source": "kalshi", "id": "KXGENERALCOUNTY-SENATETX-26-FTBE"},
+  {"manifold": "california-governor-which-counties", "answer": "Orange", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-ORAN"},
+  {"manifold": "california-governor-which-counties", "answer": "San Joaquin", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-SJOA"},
+  {"manifold": "california-governor-which-counties", "answer": "Riverside", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-RIVE"},
+  {"manifold": "california-governor-which-counties", "answer": "San Bernardino", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-SBER"},
+  {"manifold": "california-governor-which-counties", "answer": "Fresno", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-FRES"},
+  {"manifold": "california-governor-which-counties", "answer": "San Luis Obispo", "source": "kalshi", "id": "KXGENERALCOUNTY-GOVPARTYCA-26-SLUI"}
 ]
