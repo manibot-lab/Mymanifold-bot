@@ -60,5 +60,20 @@
       "50-54"
     ],
     "created_at": "2026-10-18T08:41:32.359552+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/next-prime-minister-of-new-zealand-174",
+    "manifold_url": "https://manifold.markets/Fastcar99/next-prime-minister-of-new-zealand",
+    "title": "Next Prime Minister of New Zealand?",
+    "answers": [
+      "Christopher Luxon",
+      "Chris Hipkins",
+      "Chl\u00f6e Swarbrick",
+      "David Seymour",
+      "Winston Peters",
+      "Nicola Willis",
+      "Carmel Sepuloni"
+    ],
+    "created_at": "2026-10-22T07:20:14.642351+00:00"
   }
 ]
