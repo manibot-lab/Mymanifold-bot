@@ -583,5 +583,15 @@
   {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 50%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-50"},
   {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 38%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-38"},
   {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 52%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-52"},
-  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 54%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-54"}
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 54%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-54"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 290K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-290000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 300K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-300000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 310K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-310000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 270K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-270000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 320K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-320000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 260K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-260000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 330K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-330000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 340K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-340000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 250K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-250000"},
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"}
 ]
