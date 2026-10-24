@@ -570,11 +570,18 @@
   {"manifold": "gas-price-on-october-26", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3400"},
   {"manifold": "gas-price-on-october-26", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.4000"},
   {"manifold": "largest-company-end-of-october-2026", "answer": "NVIDIA", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "NVIDIA"},
-{"manifold": "largest-company-end-of-october-2026", "answer": "Apple", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Apple"},
-{"manifold": "largest-company-end-of-october-2026", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Alphabet"},
-{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Apple", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Apple"},
-{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "NVIDIA", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "NVIDIA"},
-{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Alphabet"}
-
- 
+  {"manifold": "largest-company-end-of-october-2026", "answer": "Apple", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Apple"},
+  {"manifold": "largest-company-end-of-october-2026", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Alphabet"},
+  {"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Apple", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Apple"},
+  {"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "NVIDIA", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "NVIDIA"},
+  {"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Alphabet"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 44%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-44"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 46%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-46"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 42%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-42"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 48%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-48"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 40%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-40"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 50%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-50"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 38%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-38"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 52%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-52"},
+  {"manifold": "alaska-governor-election-jonathan-k", "answer": "At least 54%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26JKRE-54"}
 ]
