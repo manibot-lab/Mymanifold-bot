@@ -576,5 +576,9 @@
   {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, D-Senate, R-President", "source": "kalshi", "id": "POWER-28-RH-DS-RP"},
   {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, R-Senate, D-President", "source": "kalshi", "id": "POWER-28-RH-RS-DP"},
   {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "D-House, D-Senate, R-President", "source": "kalshi", "id": "POWER-28-DH-DS-RP"},
-  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, D-Senate, D-President", "source": "kalshi", "id": "POWER-28-RH-DS-DP"}
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, D-Senate, D-President", "source": "kalshi", "id": "POWER-28-RH-DS-DP"},
+  {"manifold": "san-francisco-district-8-supervisor", "answer": "Gary McCoy", "source": "kalshi", "id": "KXSFD8-26-GMCC"},
+  {"manifold": "san-francisco-district-8-supervisor", "answer": "Darshini Patel", "source": "kalshi", "id": "KXSFD8-26-DPAT"},
+  {"manifold": "san-francisco-district-8-supervisor", "answer": "Manny Yekutiel", "source": "kalshi", "id": "KXSFD8-26-MYEK"},
+  {"manifold": "san-francisco-district-8-supervisor", "answer": "Michael Nguyen", "source": "kalshi", "id": "KXSFD8-26-MNGU"}
 ]
