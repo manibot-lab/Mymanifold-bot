@@ -75,5 +75,21 @@
       "Carmel Sepuloni"
     ],
     "created_at": "2026-10-22T07:20:14.642351+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/maine-senate-election-turnout",
+    "manifold_url": "https://manifold.markets/Fastcar99/maine-senate-election-turnout-first",
+    "title": "Maine Senate Election: Turnout (First Round)",
+    "answers": [
+      "700K-750K",
+      "650K-700K",
+      "750K-800K",
+      "800K-850K",
+      "900K+",
+      "<600K",
+      "850K-900K",
+      "600K-650K"
+    ],
+    "created_at": "2026-10-24T05:34:24.851270+00:00"
   }
 ]
