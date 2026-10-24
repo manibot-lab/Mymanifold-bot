@@ -596,5 +596,12 @@
   {"manifold": "who-will-hold-amy-klobuchars-senate-QC6Ogth0Eq", "answer": "Angie Craig", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-ACRA"},
   {"manifold": "who-will-hold-amy-klobuchars-senate-QC6Ogth0Eq", "answer": "No one", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-NOONE"},
   {"manifold": "who-will-hold-amy-klobuchars-senate-QC6Ogth0Eq", "answer": "Tim Walz", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-TWAL"},
-  {"manifold": "who-will-hold-amy-klobuchars-senate-QC6Ogth0Eq", "answer": "Amy Klobuchar", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-AKLO"}
+  {"manifold": "who-will-hold-amy-klobuchars-senate-QC6Ogth0Eq", "answer": "Amy Klobuchar", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-AKLO"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Donavan McKinney", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-DMCK"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Rashida Tlaib", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-RTLA"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Ilhan Omar", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-IOMA"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Connie Chan", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-CCHA"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Claire Valdez", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-CVAL"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Dan Osborn", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-DOSB"},
+  {"manifold": "who-will-aoc-endorse", "answer": "Darializa Avila Chevalier", "source": "kalshi", "id": "KXENDORSEAOC-26NOV03-DCHE"}
 ]
