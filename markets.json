@@ -593,5 +593,7 @@
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 330K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-330000"},
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 340K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-340000"},
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 250K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-250000"},
-  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"}
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"},
+  {"manifold": "nj09-house-winner", "answer": "Rosie Pino", "source": "kalshi", "id": "HOUSENJ9-26-R"},
+  {"manifold": "nj09-house-winner", "answer": "Nellie Pou", "source": "kalshi", "id": "HOUSENJ9-26-D"}
 ]
