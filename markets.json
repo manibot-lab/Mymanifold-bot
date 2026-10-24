@@ -568,6 +568,13 @@
   {"manifold": "gas-price-on-october-26", "answer": "4.2999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3000"},
   {"manifold": "gas-price-on-october-26", "answer": "4.3199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3200"},
   {"manifold": "gas-price-on-october-26", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3400"},
-  {"manifold": "gas-price-on-october-26", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.4000"}
+  {"manifold": "gas-price-on-october-26", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.4000"},
+  {"manifold": "largest-company-end-of-october-2026", "answer": "NVIDIA", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "NVIDIA"},
+{"manifold": "largest-company-end-of-october-2026", "answer": "Apple", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Apple"},
+{"manifold": "largest-company-end-of-october-2026", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "largest-company-end-of-october-2026", "source_answer": "Alphabet"},
+{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Apple", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Apple"},
+{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "NVIDIA", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "NVIDIA"},
+{"manifold": "2nd-largest-company-end-of-october-tC9gsqNNRZ", "answer": "Alphabet (Google)", "source": "polymarket_event", "id": "2nd-largest-company-end-of-october-2026", "source_answer": "Alphabet"}
+
  
 ]
