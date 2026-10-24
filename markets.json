@@ -596,13 +596,4 @@
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"},
   {"manifold": "nj09-house-winner", "answer": "Rosie Pino", "source": "kalshi", "id": "HOUSENJ9-26-R"},
   {"manifold": "nj09-house-winner", "answer": "Nellie Pou", "source": "kalshi", "id": "HOUSENJ9-26-D"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 14+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P14"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 11+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P11"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P17"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 8+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P8"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P20"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 26+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P26"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P5"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 23+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P23"},
-  {"manifold": "new-jerseys-9th-district-margin-of", "answer": "Pou, 2+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-NJ09D-P2"}
 ]
