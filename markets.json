@@ -580,5 +580,15 @@
   {"manifold": "san-francisco-district-8-supervisor", "answer": "Gary McCoy", "source": "kalshi", "id": "KXSFD8-26-GMCC"},
   {"manifold": "san-francisco-district-8-supervisor", "answer": "Darshini Patel", "source": "kalshi", "id": "KXSFD8-26-DPAT"},
   {"manifold": "san-francisco-district-8-supervisor", "answer": "Manny Yekutiel", "source": "kalshi", "id": "KXSFD8-26-MYEK"},
-  {"manifold": "san-francisco-district-8-supervisor", "answer": "Michael Nguyen", "source": "kalshi", "id": "KXSFD8-26-MNGU"}
+  {"manifold": "san-francisco-district-8-supervisor", "answer": "Michael Nguyen", "source": "kalshi", "id": "KXSFD8-26-MNGU"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Kelly Morrison", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-KMOR"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Steve Simon", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-SSIM"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Angie Craig", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-ACRA"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "No one", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-NOONE"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Tim Walz", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-TWAL"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Amy Klobuchar", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-AKLO"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Erin Murphy", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-EMUR"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Melisa L\u00f3pez Franzen", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-MFRA"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Keith Ellison", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-KELL"},
+  {"manifold": "who-will-hold-amy-klobuchars-senate", "answer": "Ben Schierer", "source": "kalshi", "id": "KXKLOBSEAT-27FEB01-BSCH"}
 ]
