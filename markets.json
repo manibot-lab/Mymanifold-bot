@@ -568,5 +568,13 @@
   {"manifold": "gas-price-on-october-26", "answer": "4.2999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3000"},
   {"manifold": "gas-price-on-october-26", "answer": "4.3199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3200"},
   {"manifold": "gas-price-on-october-26", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.3400"},
-  {"manifold": "gas-price-on-october-26", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.4000"}
+  {"manifold": "gas-price-on-october-26", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26OCT26", "source_answer": "4.4000"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "Democratic Sweep", "source": "kalshi", "id": "POWER-28-DH-DS-DP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "Republican Sweep", "source": "kalshi", "id": "POWER-28-RH-RS-RP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "D-House, R-Senate, D-President", "source": "kalshi", "id": "POWER-28-DH-RS-DP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "D-House, R-Senate, R-President", "source": "kalshi", "id": "POWER-28-DH-RS-RP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, D-Senate, R-President", "source": "kalshi", "id": "POWER-28-RH-DS-RP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, R-Senate, D-President", "source": "kalshi", "id": "POWER-28-RH-RS-DP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "D-House, D-Senate, R-President", "source": "kalshi", "id": "POWER-28-DH-DS-RP"},
+  {"manifold": "2028-who-will-win-the-presidency-ho", "answer": "R-House, D-Senate, D-President", "source": "kalshi", "id": "POWER-28-RH-DS-DP"}
 ]
