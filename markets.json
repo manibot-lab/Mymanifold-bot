@@ -605,5 +605,15 @@
   {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22655%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL5"},
   {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226514%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL14"},
   {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226516%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL16"},
-  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22654%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL4"}
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22654%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL4"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Pete Hegseth", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-PHEG"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Glenn Jacobs", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-GJAC"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Tim Burchett", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-TBUR"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Damon Hininger", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-DHIN"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Marsha Blackburn", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-MBLA"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Chuck Fleischmann", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-CFLE"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "No one", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-NOONE"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Stuart McWhorter", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-SMCW"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Diana Harshbarger", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-DHAR"},
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Andy Ogles", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-AOGL"}
 ]
