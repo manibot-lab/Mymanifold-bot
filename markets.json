@@ -593,5 +593,17 @@
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 330K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-330000"},
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 340K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-340000"},
   {"manifold": "alaska-senate-general-election-vote", "answer": "Above 250K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-250000"},
-  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"}
+  {"manifold": "alaska-senate-general-election-vote", "answer": "Above 350K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-AKSEN-350000"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226510%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL10"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22659%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL9"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226511%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL11"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22658%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL8"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226512%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL12"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22657%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL7"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226513%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL13"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22656%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL6"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22655%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL5"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226514%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL14"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u226516%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL16"},
+  {"manifold": "2026-midterms-house-popular-vote-ma", "answer": "Democrats, \u22654%", "source": "kalshi", "id": "KXHOUSEPOPVOTEMARGIND-26NOV03-AL4"}
 ]
