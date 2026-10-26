@@ -615,5 +615,18 @@
   {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "No one", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-NOONE"},
   {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Stuart McWhorter", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-SMCW"},
   {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Diana Harshbarger", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-DHAR"},
-  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Andy Ogles", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-AOGL"}
+  {"manifold": "who-will-hold-marsha-blackburns-sen", "answer": "Andy Ogles", "source": "kalshi", "id": "KXBLACKBURNSEAT-27FEB01-AOGL"},
+  {"manifold": "gas-price-on-november-2", "answer": "4.1399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.1400"},
+{"manifold": "gas-price-on-november-2", "answer": "4.1599 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.1600"},
+{"manifold": "gas-price-on-november-2", "answer": "4.1799 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.1800"},
+{"manifold": "gas-price-on-november-2", "answer": "4.1999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.2000"},
+{"manifold": "gas-price-on-november-2", "answer": "4.2199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.2200"},
+{"manifold": "gas-price-on-november-2", "answer": "4.2399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.2400"},
+{"manifold": "gas-price-on-november-2", "answer": "4.2599 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.2600"},
+{"manifold": "gas-price-on-november-2", "answer": "4.2799 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.2800"},
+{"manifold": "gas-price-on-november-2", "answer": "4.2999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3000"},
+{"manifold": "gas-price-on-november-2", "answer": "4.3199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3200"},
+{"manifold": "gas-price-on-november-2", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3400"},
+{"manifold": "gas-price-on-november-2", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.4000"}
+
 ]
