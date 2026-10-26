@@ -627,6 +627,8 @@
 {"manifold": "gas-price-on-november-2", "answer": "4.2999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3000"},
 {"manifold": "gas-price-on-november-2", "answer": "4.3199 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3200"},
 {"manifold": "gas-price-on-november-2", "answer": "4.3399 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3400"},
-{"manifold": "gas-price-on-november-2", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.4000"}
+{"manifold": "gas-price-on-november-2", "answer": "4.3999 or more?", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.4000"},
+  {"manifold": "us-average-gas-price-on-november-2", "answer": "$4.3000 or higher", "source": "kalshi_event", "id": "KXAAAGASW-26NOV02", "source_answer": "4.3000"}
+
 
 ]
