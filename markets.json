@@ -655,5 +655,17 @@
   {"manifold": "alaska-governor-election-bernadette", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-22"},
   {"manifold": "alaska-governor-election-bernadette", "answer": "At least 16%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-16"},
   {"manifold": "alaska-governor-election-bernadette", "answer": "At least 18%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-18"},
-  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 20%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-20"}
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 20%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-20"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 14+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P14"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 12+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSEN-P12"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 16+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P16"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 10+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSEN-P10"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 28+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P28"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 18+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P18"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 32+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P32"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 8+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSEN-P8"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P20"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 30+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P30"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 6+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSEN-P6"},
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 22+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P22"}
 ]
