@@ -636,5 +636,14 @@
   {"manifold": "alaska-governor-election-treg-taylo", "answer": "At least 16%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26TTAY-16"},
   {"manifold": "alaska-governor-election-treg-taylo", "answer": "At least 6%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26TTAY-6"},
   {"manifold": "alaska-governor-election-treg-taylo", "answer": "At least 2%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26TTAY-2"},
-  {"manifold": "alaska-governor-election-treg-taylo", "answer": "At least 4%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26TTAY-4"}
+  {"manifold": "alaska-governor-election-treg-taylo", "answer": "At least 4%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26TTAY-4"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 16%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-16"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 18%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-18"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 14%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-14"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 20%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-20"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 12%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-12"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-22"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 10%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-10"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-24"},
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-26"}
 ]
