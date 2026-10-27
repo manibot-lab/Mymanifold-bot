@@ -667,5 +667,14 @@
   {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P20"},
   {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 30+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P30"},
   {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 6+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSEN-P6"},
-  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 22+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P22"}
+  {"manifold": "arkansas-senate-margin-of-victory", "answer": "Cotton, 22+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-ARSENR-P22"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 56%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-56"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 58%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-58"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 54%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-54"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 52%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-52"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 60%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-60"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 50%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-50"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 48%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-48"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 62%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-62"},
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 64%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-64"}
 ]
