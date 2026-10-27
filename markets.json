@@ -645,5 +645,15 @@
   {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-22"},
   {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 10%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-10"},
   {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-24"},
-  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-26"}
+  {"manifold": "alaska-governor-election-dave-brons", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26DBRO-26"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 28%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-28"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 30%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-30"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 26%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-26"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 32%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-32"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 34%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-34"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 24%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-24"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 22%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-22"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 16%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-16"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 18%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-18"},
+  {"manifold": "alaska-governor-election-bernadette", "answer": "At least 20%", "source": "kalshi", "id": "KXVOTEGENERAL-GOVAK-26BWIL-20"}
 ]
