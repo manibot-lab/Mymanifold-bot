@@ -695,5 +695,19 @@
   {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P5"},
   {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 23+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P23"},
   {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 2+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P2"},
-  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 26+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P26"}
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 26+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P26"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "53", "source": "kalshi", "id": "KXDSENATESEATS-29-E53"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "Above 56", "source": "kalshi", "id": "KXDSENATESEATS-29-A56"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "52", "source": "kalshi", "id": "KXDSENATESEATS-29-E52"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "54", "source": "kalshi", "id": "KXDSENATESEATS-29-E54"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "Below 45", "source": "kalshi", "id": "KXDSENATESEATS-29-B45"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "45", "source": "kalshi", "id": "KXDSENATESEATS-29-E45"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "48", "source": "kalshi", "id": "KXDSENATESEATS-29-E48"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "51", "source": "kalshi", "id": "KXDSENATESEATS-29-E51"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "55", "source": "kalshi", "id": "KXDSENATESEATS-29-E55"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "49", "source": "kalshi", "id": "KXDSENATESEATS-29-E49"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "50", "source": "kalshi", "id": "KXDSENATESEATS-29-E50"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "56", "source": "kalshi", "id": "KXDSENATESEATS-29-E56"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "47", "source": "kalshi", "id": "KXDSENATESEATS-29-E47"},
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "46", "source": "kalshi", "id": "KXDSENATESEATS-29-E46"}
 ]
