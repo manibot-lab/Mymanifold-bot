@@ -225,5 +225,17 @@
       "James Talarico (D)"
     ],
     "created_at": "2026-10-29T08:27:41.690446+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/senate-combo-michigan-ohio",
+    "manifold_url": "https://manifold.markets/Fastcar99/senate-combo-michigan-and-ohio",
+    "title": "Senate Combo: Michigan and Ohio",
+    "answers": [
+      "Dems sweep",
+      "Reps MI, Dems OH",
+      "Reps sweep",
+      "Dems MI, Reps OH"
+    ],
+    "created_at": "2026-10-29T18:34:05.334234+00:00"
   }
 ]
