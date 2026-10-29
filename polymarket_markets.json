@@ -91,5 +91,18 @@
       "600K-650K"
     ],
     "created_at": "2026-10-24T05:34:24.851270+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/how-many-house-seats-will-the-democrats-win-in-nevada",
+    "manifold_url": "https://manifold.markets/Fastcar99/how-many-house-seats-will-the-democ-8nnINU2CcA",
+    "title": "How many House seats will the Democrats win in Nevada?",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "1",
+      "0"
+    ],
+    "created_at": "2026-10-29T06:46:37.632590+00:00"
   }
 ]
