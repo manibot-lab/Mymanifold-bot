@@ -167,5 +167,19 @@
     "title": "Will Republicans win Alaska, Iowa, Kansas, Maine, Michigan, and Texas, and lose Ohio?",
     "answers": null,
     "created_at": "2026-10-29T07:18:03.175062+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/dems-best-tossup-senate-race",
+    "manifold_url": "https://manifold.markets/Fastcar99/dems-best-tossup-senate-race",
+    "title": "Dems' best tossup Senate race?",
+    "answers": [
+      "Texas",
+      "Ohio",
+      "Michigan",
+      "Maine",
+      "Alaska",
+      "Iowa"
+    ],
+    "created_at": "2026-10-29T07:32:59.841663+00:00"
   }
 ]
