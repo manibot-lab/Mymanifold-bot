@@ -117,5 +117,20 @@
       "<4"
     ],
     "created_at": "2026-10-29T06:49:36.158377+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/how-many-house-seats-will-the-democrats-win-in-michigan",
+    "manifold_url": "https://manifold.markets/Fastcar99/how-many-house-seats-will-the-democ-ZSu2E6RuIL",
+    "title": "How many House seats will the Democrats win in Michigan?",
+    "answers": [
+      "9",
+      "8",
+      "7",
+      "6",
+      "10+",
+      "<5",
+      "5"
+    ],
+    "created_at": "2026-10-29T06:56:12.866206+00:00"
   }
 ]
