@@ -676,5 +676,15 @@
   {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 50%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-50"},
   {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 48%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-48"},
   {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 62%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-62"},
-  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 64%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-64"}
+  {"manifold": "tx28-house-election-henry-cuellar-v", "answer": "At least 64%", "source": "kalshi", "id": "KXVOTEGENERAL-HOUSETX28-26HCUE-64"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 6-8%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P7"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, \u226514%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P14"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 4-6%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P5"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 8-10%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P9"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 10-12%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P11"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 2-4%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P3"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 12-14%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P13"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 0-2%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P1"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Michele Tafoya, 0-2%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-MTAF-P1"},
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Michele Tafoya, \u22652%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-MTAF-P2"}
 ]
