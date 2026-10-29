@@ -686,5 +686,14 @@
   {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 12-14%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P13"},
   {"manifold": "minnesota-senate-margin-of-victory", "answer": "Peggy Flanagan, 0-2%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-PFLA-P1"},
   {"manifold": "minnesota-senate-margin-of-victory", "answer": "Michele Tafoya, 0-2%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-MTAF-P1"},
-  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Michele Tafoya, \u22652%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-MTAF-P2"}
+  {"manifold": "minnesota-senate-margin-of-victory", "answer": "Michele Tafoya, \u22652%", "source": "kalshi", "id": "KXGENERALMOV-SENATEMN-26-MTAF-P2"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 14+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P14"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 11+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P11"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 17+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P17"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 8+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P8"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P20"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P5"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 23+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P23"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 2+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P2"},
+  {"manifold": "minnesota-governor-margin-of-victor", "answer": "Klobuchar, 26+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-MNGOVD-P26"}
 ]
