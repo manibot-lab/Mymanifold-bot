@@ -147,5 +147,18 @@
       "<2"
     ],
     "created_at": "2026-10-29T07:00:12.540040+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/how-many-house-seats-will-the-democrats-win-in-minnesota",
+    "manifold_url": "https://manifold.markets/Fastcar99/how-many-house-seats-will-the-democ-gApAIIN5yt",
+    "title": "How many House seats will the Democrats win in Minnesota?",
+    "answers": [
+      "4",
+      "5",
+      "6+",
+      "3",
+      "<3"
+    ],
+    "created_at": "2026-10-29T07:01:19.260307+00:00"
   }
 ]
