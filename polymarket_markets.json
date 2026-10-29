@@ -215,5 +215,15 @@
       "<60%"
     ],
     "created_at": "2026-10-29T07:57:24.485568+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/texas-senate-election-denton-county-winner",
+    "manifold_url": "https://manifold.markets/Fastcar99/texas-senate-election-denton-county",
+    "title": "Texas Senate Election: Denton County Winner",
+    "answers": [
+      "Ken Paxton (R)",
+      "James Talarico (D)"
+    ],
+    "created_at": "2026-10-29T08:27:41.690446+00:00"
   }
 ]
