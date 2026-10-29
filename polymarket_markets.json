@@ -194,5 +194,12 @@
       "13+"
     ],
     "created_at": "2026-10-29T07:50:53.840968+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/new-zealand-election-any-bloc-wins-a-majority",
+    "manifold_url": "https://manifold.markets/Fastcar99/new-zealand-election-any-bloc-wins",
+    "title": "New Zealand Election: Any Bloc Wins a Majority?",
+    "answers": null,
+    "created_at": "2026-10-29T07:54:09.766865+00:00"
   }
 ]
