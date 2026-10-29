@@ -201,5 +201,19 @@
     "title": "New Zealand Election: Any Bloc Wins a Majority?",
     "answers": null,
     "created_at": "2026-10-29T07:54:09.766865+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/democratic-senate-odds-on-november-2",
+    "manifold_url": "https://manifold.markets/Fastcar99/democratic-senate-odds-on-november",
+    "title": "Democratic Senate odds on November 2?",
+    "answers": [
+      ">68%",
+      "64-66%",
+      "66-68%",
+      "60-62%",
+      "62-64%",
+      "<60%"
+    ],
+    "created_at": "2026-10-29T07:57:24.485568+00:00"
   }
 ]
