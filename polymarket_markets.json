@@ -237,5 +237,21 @@
       "Dems MI, Reps OH"
     ],
     "created_at": "2026-10-29T18:34:05.334234+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/senate-three-way-combo-texas-kansas-nebraska",
+    "manifold_url": "https://manifold.markets/Fastcar99/senate-combo-texas-kansas-nebraska",
+    "title": "Senate Combo: Texas, Kansas, Nebraska",
+    "answers": [
+      "Dems TX & KS, Reps NE",
+      "Dems TX, Reps KS & NE",
+      "Reps sweep",
+      "Dems TX & KS, Ind NE",
+      "Reps TX & NE, Dems KS",
+      "Dems TX, Reps KS, Ind NE",
+      "Reps TX, Dems KS, Ind NE",
+      "Reps TX & KS, Ind NE"
+    ],
+    "created_at": "2026-10-29T19:46:20.952607+00:00"
   }
 ]
