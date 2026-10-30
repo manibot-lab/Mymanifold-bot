@@ -8,9 +8,9 @@ POLY = "https://gamma-api.polymarket.com"
 # Defaults. Any entry in markets.json can override min_gap, max_gap,
 # margin (in percentage points), bet, cap (in mana) and max_spread
 # (in percentage points, Kalshi entries only).
-MIN_GAP = 0.03            # only bet if odds differ by 5+ points
+MIN_GAP = 0.04           # only bet if odds differ by 5+ points
 MAX_GAP = 1.0              # skip if odds differ by more than this
-MARGIN = 0.025             # stop 2.5 points short of the source's odds
+MARGIN = 0.036            # stop 2.5 points short of the source's odds
 BET_AMOUNT = 125           # mana per bet
 MAX_PER_MARKET = 2000       # stop betting on a market/answer after this much
 MIN_POLY_LIQUIDITY = 2000  # Polymarket liquidity in USD
