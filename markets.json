@@ -757,5 +757,12 @@
   {"manifold": "california-29-house-general-electio", "answer": "Above 104K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-104000"},
   {"manifold": "california-29-house-general-electio", "answer": "Above 175K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-175000"},
   {"manifold": "california-29-house-general-electio", "answer": "Above 87K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-87000"},
-  {"manifold": "california-29-house-general-electio", "answer": "Above 195K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-195000"}
+  {"manifold": "california-29-house-general-electio", "answer": "Above 195K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-195000"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 1+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P1"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P5"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 10+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P10"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 15+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P15"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P20"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P25"},
+  {"manifold": "californias-4th-district-margin-of", "answer": "Mike Thompson, 30+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA04MTHO-P30"}
 ]
