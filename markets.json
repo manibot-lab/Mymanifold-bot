@@ -737,5 +737,7 @@
   {"manifold": "reddest-state-to-elect-a-democratic", "answer": "New Hampshire", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-NH"},
   {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Minnesota", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-MN"},
   {"manifold": "missouri-state-senate-district-8-wi", "answer": "Keri Ingle", "source": "kalshi", "id": "KXMOSD8-26-KING"},
-  {"manifold": "missouri-state-senate-district-8-wi", "answer": "Jon Patterson", "source": "kalshi", "id": "KXMOSD8-26-JPAT"}
+  {"manifold": "missouri-state-senate-district-8-wi", "answer": "Jon Patterson", "source": "kalshi", "id": "KXMOSD8-26-JPAT"},
+  {"manifold": "missouri-state-senate-district-30-w", "answer": "Betsy Fogle", "source": "kalshi", "id": "KXMOSD30-26-BFOG"},
+  {"manifold": "missouri-state-senate-district-30-w", "answer": "Melanie Stinnett", "source": "kalshi", "id": "KXMOSD30-26-MSTI"}
 ]
