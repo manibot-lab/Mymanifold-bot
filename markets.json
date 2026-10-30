@@ -739,5 +739,11 @@
   {"manifold": "missouri-state-senate-district-8-wi", "answer": "Keri Ingle", "source": "kalshi", "id": "KXMOSD8-26-KING"},
   {"manifold": "missouri-state-senate-district-8-wi", "answer": "Jon Patterson", "source": "kalshi", "id": "KXMOSD8-26-JPAT"},
   {"manifold": "missouri-state-senate-district-30-w", "answer": "Betsy Fogle", "source": "kalshi", "id": "KXMOSD30-26-BFOG"},
-  {"manifold": "missouri-state-senate-district-30-w", "answer": "Melanie Stinnett", "source": "kalshi", "id": "KXMOSD30-26-MSTI"}
+  {"manifold": "missouri-state-senate-district-30-w", "answer": "Melanie Stinnett", "source": "kalshi", "id": "KXMOSD30-26-MSTI"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 10+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P10"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 15+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P15"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P5"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 1+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P1"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P20"},
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P25"}
 ]
