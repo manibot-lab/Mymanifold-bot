@@ -745,5 +745,17 @@
   {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 5+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P5"},
   {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 1+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P1"},
   {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P20"},
-  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P25"}
+  {"manifold": "californias-29th-district-margin-of", "answer": "Luz Rivas, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA29LRIV-P25"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 131K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-131000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 125K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-125000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 137K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-137000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 119K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-119000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 143K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-143000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 114K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-114000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 109K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-109000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 156K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-156000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 104K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-104000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 175K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-175000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 87K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-87000"},
+  {"manifold": "california-29-house-general-electio", "answer": "Above 195K", "source": "kalshi", "id": "KXMIDTERMVOTETURN-CA29-195000"}
 ]
