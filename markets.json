@@ -720,5 +720,20 @@
   {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 6", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-6"},
   {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 14", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-14"},
   {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 15", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-15"},
-  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 16", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-16"}
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 16", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-16"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Texas", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-TX"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Kansas", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-KS"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "South Carolina", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-SC"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "North Carolina", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-NC"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Mississippi", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-MS"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Alaska", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-AK"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Iowa", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-IA"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Ohio", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-OH"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Louisiana", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-LA"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Georgia", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-GA"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Montana", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-MT"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Florida", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-FL"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Michigan", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-MI"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "New Hampshire", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-NH"},
+  {"manifold": "reddest-state-to-elect-a-democratic", "answer": "Minnesota", "source": "kalshi", "id": "KXREDDESTDSEN-27JAN03-MN"}
 ]
