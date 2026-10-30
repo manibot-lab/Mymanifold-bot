@@ -709,5 +709,16 @@
   {"manifold": "democratic-senate-seat-count-2028", "answer": "50", "source": "kalshi", "id": "KXDSENATESEATS-29-E50"},
   {"manifold": "democratic-senate-seat-count-2028", "answer": "56", "source": "kalshi", "id": "KXDSENATESEATS-29-E56"},
   {"manifold": "democratic-senate-seat-count-2028", "answer": "47", "source": "kalshi", "id": "KXDSENATESEATS-29-E47"},
-  {"manifold": "democratic-senate-seat-count-2028", "answer": "46", "source": "kalshi", "id": "KXDSENATESEATS-29-E46"}
+  {"manifold": "democratic-senate-seat-count-2028", "answer": "46", "source": "kalshi", "id": "KXDSENATESEATS-29-E46"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 9", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-9"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 10", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-10"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 8", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-8"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 7", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-7"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 11", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-11"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 12", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-12"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 13", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-13"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 6", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-6"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 14", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-14"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 15", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-15"},
+  {"manifold": "how-many-launches-will-spacex-have-86IggEtgOR", "answer": "Above 16", "source": "kalshi", "id": "KXSPACEXCOUNT-26NOV-16"}
 ]
