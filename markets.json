@@ -782,5 +782,7 @@
   {"manifold": "californias-14th-district-margin-of", "answer": "Aisha Wahab, 1+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA14AWAH-P1"},
   {"manifold": "californias-14th-district-margin-of", "answer": "Aisha Wahab, 20+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA14AWAH-P20"},
   {"manifold": "californias-14th-district-margin-of", "answer": "Aisha Wahab, 25+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA14AWAH-P25"},
-  {"manifold": "californias-14th-district-margin-of", "answer": "Aisha Wahab, 30+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA14AWAH-P30"}
+  {"manifold": "californias-14th-district-margin-of", "answer": "Aisha Wahab, 30+ pts", "source": "kalshi", "id": "KXMIDTERMMOV-CA14AWAH-P30"},
+  {"manifold": "ca37-house-winner", "answer": "Samantha Mota", "source": "kalshi", "id": "KXCAELECTION-2637-SMOT"},
+  {"manifold": "ca37-house-winner", "answer": "Sydney Kamlager-Dove", "source": "kalshi", "id": "KXCAELECTION-2637-SKAM"}
 ]
