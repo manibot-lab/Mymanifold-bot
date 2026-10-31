@@ -300,5 +300,24 @@
       "Ali G"
     ],
     "created_at": "2026-10-31T09:20:37.404901+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "manifold_url": "https://manifold.markets/Fastcar99/which-senate-swing-states-will-repu",
+    "title": "Which Senate Swing States will Republicans win?",
+    "answers": [
+      "None",
+      "IA, KS",
+      "IA",
+      "KS",
+      "All 7",
+      "AK, IA",
+      "IA, KS, OH",
+      "IA, KS, TX",
+      "AK, IA, KS, ME, OH, TX",
+      "AK, IA, KS",
+      "Other"
+    ],
+    "created_at": "2026-10-31T09:24:34.764167+00:00"
   }
 ]
