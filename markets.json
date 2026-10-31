@@ -833,5 +833,12 @@
   {"manifold": "times-person-of-the-year-for-2026", "answer": "Alysa Liu", "source": "kalshi", "id": "KXTIME-26-ALY"},
   {"manifold": "times-person-of-the-year-for-2026", "answer": "Benjamin Netanyahu", "source": "kalshi", "id": "KXTIME-26-BEN"},
   {"manifold": "times-person-of-the-year-for-2026", "answer": "P\u00e9ter Magyar", "source": "kalshi", "id": "KXTIME-26-PET"},
-  {"manifold": "times-person-of-the-year-for-2026", "answer": "Bernie Sanders", "source": "kalshi", "id": "KXTIME-26-BER"}
+  {"manifold": "times-person-of-the-year-for-2026", "answer": "Bernie Sanders", "source": "kalshi", "id": "KXTIME-26-BER"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "New Zealand First", "source": "kalshi", "id": "KXNZGOVT-27MAR15-NZF"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "National", "source": "kalshi", "id": "KXNZGOVT-27MAR15-NAT"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "ACT", "source": "kalshi", "id": "KXNZGOVT-27MAR15-ACT"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "Greens", "source": "kalshi", "id": "KXNZGOVT-27MAR15-GRN"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "Labour", "source": "kalshi", "id": "KXNZGOVT-27MAR15-LAB"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "Te P\u0101ti M\u0101ori", "source": "kalshi", "id": "KXNZGOVT-27MAR15-TPM"},
+  {"manifold": "who-will-be-a-part-of-the-next-gove-uzZRqtpc82", "answer": "Opportunity", "source": "kalshi", "id": "KXNZGOVT-27MAR15-OPP"}
 ]
