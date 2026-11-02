@@ -846,6 +846,7 @@
   {"manifold": "simi-valley-mayoral-election-winner", "answer": "Kareem Jubran", "source": "kalshi", "id": "KXSIMIVALLEYMAYOR-26-KJUB"},
   {"manifold": "simi-valley-mayoral-election-winner", "answer": "Robert Clarizio", "source": "kalshi", "id": "KXSIMIVALLEYMAYOR-26-RCLA"},
   {"manifold": "simi-valley-mayoral-election-winner", "answer": "Wayne Hampton Holland III", "source": "kalshi", "id": "KXSIMIVALLEYMAYOR-26-WHOL"},
-  {"manifold": "avengers-doomsday-breaks-the-record", "source": "polymarket_event", "id": "which-movie-has-biggest-opening-weekend-in-2026", "source_answer": "Avengers: Doomsday"}
-
+  {"manifold": "avengers-doomsday-breaks-the-record", "source": "polymarket_event", "id": "which-movie-has-biggest-opening-weekend-in-2026", "source_answer": "Avengers: Doomsday"},
+  {"manifold": "pennsylvania-state-senate-winner", "answer": "Democratic party", "source": "kalshi", "id": "KXPASEN-262-D"},
+  {"manifold": "pennsylvania-state-senate-winner", "answer": "Republican party", "source": "kalshi", "id": "KXPASEN-262-R"}
 ]
