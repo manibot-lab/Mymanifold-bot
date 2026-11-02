@@ -337,5 +337,18 @@
     "title": "Will Abdul El-Sayed run 3 to 6 points behind Jocelyn Benson?",
     "answers": null,
     "created_at": "2026-11-02T10:04:19.606547+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/abdul-el-sayed-runs-behind-jocelyn-benson-by",
+    "manifold_url": "https://manifold.markets/Fastcar99/abdul-elsayed-runs-behind-jocelyn-b",
+    "title": "Abdul El-Sayed runs behind Jocelyn Benson by...?",
+    "answers": [
+      "3-6 points behind",
+      "0-3 points behind",
+      "6-9 points behind",
+      "9+ points behind",
+      "Runs ahead"
+    ],
+    "created_at": "2026-11-02T10:06:33.842245+00:00"
   }
 ]
