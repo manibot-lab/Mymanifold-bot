@@ -848,5 +848,18 @@
   {"manifold": "simi-valley-mayoral-election-winner", "answer": "Wayne Hampton Holland III", "source": "kalshi", "id": "KXSIMIVALLEYMAYOR-26-WHOL"},
   {"manifold": "avengers-doomsday-breaks-the-record", "source": "polymarket_event", "id": "which-movie-has-biggest-opening-weekend-in-2026", "source_answer": "Avengers: Doomsday"},
   {"manifold": "pennsylvania-state-senate-winner", "answer": "Democratic party", "source": "kalshi", "id": "KXPASEN-262-D"},
-  {"manifold": "pennsylvania-state-senate-winner", "answer": "Republican party", "source": "kalshi", "id": "KXPASEN-262-R"}
+  {"manifold": "pennsylvania-state-senate-winner", "answer": "Republican party", "source": "kalshi", "id": "KXPASEN-262-R"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 242", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL242"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 246", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL246"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 238", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL238"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 250", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL250"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 234", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL234"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 254", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL254"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 230", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL230"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 258", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL258"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 226", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL226"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 222", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL222"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 218", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL218"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 214", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL214"},
+  {"manifold": "how-many-house-seats-will-democrats-ZlQEOR6RtI", "answer": "At least 210", "source": "kalshi", "id": "KXDHOUSEWON-26NOV03-AL210"}
 ]
