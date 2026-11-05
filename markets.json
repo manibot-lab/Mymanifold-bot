@@ -873,5 +873,7 @@
   {"manifold": "how-many-senate-seats-will-democrat", "answer": "At least 50", "source": "kalshi", "id": "KXSENATESEATSD-29-50"},
   {"manifold": "how-many-senate-seats-will-democrat", "answer": "At least 49", "source": "kalshi", "id": "KXSENATESEATSD-29-49"},
   {"manifold": "how-many-senate-seats-will-democrat", "answer": "At least 48", "source": "kalshi", "id": "KXSENATESEATSD-29-48"},
-  {"manifold": "how-many-senate-seats-will-democrat", "answer": "At least 47", "source": "kalshi", "id": "KXSENATESEATSD-29-47"}
+  {"manifold": "how-many-senate-seats-will-democrat", "answer": "At least 47", "source": "kalshi", "id": "KXSENATESEATSD-29-47"},
+  {"manifold": "who-will-run-for-the-2028-republica-0hLptIINdg", "answer": "Brian Kemp", "source": "kalshi", "id": "KX2028RRUN-28-BKEM"},
+  {"manifold": "who-will-run-for-the-2028-republica-0hLptIINdg", "answer": "Chris Christie", "source": "kalshi", "id": "KX2028RRUN-28-CCHR"}
 ]
