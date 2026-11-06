@@ -925,5 +925,7 @@
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "John Fetterman", "source": "kalshi", "id": "KX2028DRUN-28-JFET"},
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Hunter Biden", "source": "kalshi", "id": "KX2028DRUN-28-HBID"},
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Mark Cuban", "source": "kalshi", "id": "KX2028DRUN-28-MCUB"},
-  {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Andy Beshear", "source": "kalshi", "id": "KX2028DRUN-28-ABES"}
+  {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Andy Beshear", "source": "kalshi", "id": "KX2028DRUN-28-ABES"},
+  {"manifold": "indiana-governor-winner-2028", "answer": "Democratic", "source": "kalshi", "id": "GOVPARTYIN-28-D"},
+  {"manifold": "indiana-governor-winner-2028", "answer": "Republican", "source": "kalshi", "id": "GOVPARTYIN-28-R"}
 ]
