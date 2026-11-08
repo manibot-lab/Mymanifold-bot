@@ -926,14 +926,17 @@
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Hunter Biden", "source": "kalshi", "id": "KX2028DRUN-28-HBID"},
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Mark Cuban", "source": "kalshi", "id": "KX2028DRUN-28-MCUB"},
   {"manifold": "who-will-run-for-the-democratic-pre-z5UpgRN5dq", "answer": "Andy Beshear", "source": "kalshi", "id": "KX2028DRUN-28-ABES"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "4.0500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $4.05"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $4.00"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.9500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.95"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.8500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.85"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.7500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.75"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.6500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.65"},
-{"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.5500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.55"}
-
-
-
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "4.0500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $4.05"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "4.0000 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $4.00"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.9500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.95"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.8500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.85"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.7500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.75"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.6500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.65"},
+  {"manifold": "what-will-the-us-average-gas-price-6SItSOd9dQ", "answer": "3.5500 or lower?", "source": "kalshi_event", "id": "KXAAAGASMINM-26NOV30", "source_answer": "Below $3.55"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jan 1, 2031", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JAN31"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jan 1, 2029", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JAN29"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jan 1, 2033", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JAN33"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jan 1, 2028", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JAN28"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jul 1, 2027", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JUL27"},
+  {"manifold": "when-will-jensen-huang-leave-as-nvi", "answer": "Before Jan 1, 2027", "source": "kalshi", "id": "KXCEONVDA-01JAN33-01JAN27"}
 ]
