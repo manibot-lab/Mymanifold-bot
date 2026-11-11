@@ -366,5 +366,20 @@
       "235-239"
     ],
     "created_at": "2026-11-09T07:55:41.337910+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-above",
+    "manifold_url": "https://manifold.markets/Fastcar99/anthropic-ipo-closing-market-cap-ab",
+    "title": "Anthropic IPO closing market cap above ___ ?",
+    "answers": [
+      "$1.5T",
+      "$1.75T",
+      "$2T",
+      "$2.25T",
+      "$2.75T",
+      "$2.5T",
+      "$3T"
+    ],
+    "created_at": "2026-11-11T18:20:13.505995+00:00"
   }
 ]
