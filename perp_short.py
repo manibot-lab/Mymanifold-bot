@@ -16,7 +16,7 @@ KEY = os.environ["MANIFOLD_API_KEY"]  # same secret name your main bot uses
 HEADERS = {"Authorization": f"Key {KEY}", "Content-Type": "application/json"}
 
 SLUG = "anthropic-mnx-valuation-futures-pri"
-SHORT_MANA = 10        # margin added per run
+SHORT_MANA = 3189.41      # margin added per run
 LEVERAGE = 10         # position notional = SHORT_MANA x this; must be <= the market max
 MAX_FEE = 1            # fee allowance in mana, not a price limit
 
