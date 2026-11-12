@@ -393,5 +393,20 @@
       "Not resigned/removed; Under $4T"
     ],
     "created_at": "2026-11-12T07:43:56.456482+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-979",
+    "manifold_url": "https://manifold.markets/Fastcar99/anthropic-ipo-closing-market-cap-mi",
+    "title": "Anthropic IPO Closing Market Cap (Middle Brackets)",
+    "answers": [
+      "1.2\u20131.5T",
+      "1.5\u20131.8T",
+      "1.8T+",
+      "0.9\u20131.2T",
+      "0.6\u20130.9T",
+      "<0.6T",
+      "No IPO by December 31, 2027"
+    ],
+    "created_at": "2026-11-12T19:13:12.184738+00:00"
   }
 ]
