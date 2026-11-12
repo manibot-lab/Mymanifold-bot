@@ -381,5 +381,17 @@
       "$3T"
     ],
     "created_at": "2026-11-11T18:20:13.505995+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-market-cap-above-4t-end-of-2026",
+    "manifold_url": "https://manifold.markets/Fastcar99/jensen-huang-resigned-or-removed-nv",
+    "title": "Jensen Huang resigned or removed & Nvidia above $4T end of 2026?",
+    "answers": [
+      "Resigned/removed; Over $4T",
+      "Resigned/removed; Under $4T",
+      "Not resigned/removed; Over $4T",
+      "Not resigned/removed; Under $4T"
+    ],
+    "created_at": "2026-11-12T07:43:56.456482+00:00"
   }
 ]
