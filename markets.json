@@ -986,11 +986,6 @@
   {"manifold": "which-senators-will-back-van-hollen", "answer": "Mark Kelly", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MKEL"},
   {"manifold": "which-senators-will-back-van-hollen", "answer": "Ruben Gallego", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-RGAL"},
   {"manifold": "which-senators-will-back-van-hollen", "answer": "John Fetterman", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-JFET"},
-  {"manifold": "which-senators-will-back-van-hollen", "answer": "Maggie Hassan", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MHAS"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "Marco Rubio", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-MRUB"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "J.D. Vance", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-JVAN"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "No one", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-NOONE"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "Himself", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-DJT"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "Ron DeSantis", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-RDES"},
-  {"manifold": "who-will-donald-trump-endorse-in-th", "answer": "Donald J. Trump Jr.", "source": "kalshi", "id": "KXTRUMPENDORSE28-28MAR01-DJR"}
+  {"manifold": "which-senators-will-back-van-hollen", "answer": "Maggie Hassan", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MHAS"}
+  
 ]
