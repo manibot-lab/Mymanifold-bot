@@ -986,6 +986,10 @@
   {"manifold": "which-senators-will-back-van-hollen", "answer": "Mark Kelly", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MKEL"},
   {"manifold": "which-senators-will-back-van-hollen", "answer": "Ruben Gallego", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-RGAL"},
   {"manifold": "which-senators-will-back-van-hollen", "answer": "John Fetterman", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-JFET"},
-  {"manifold": "which-senators-will-back-van-hollen", "answer": "Maggie Hassan", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MHAS"}
-  
+  {"manifold": "which-senators-will-back-van-hollen", "answer": "Maggie Hassan", "source": "kalshi", "id": "KXVANHOLLENBACKERS-27JAN03-MHAS"},
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2029", "source": "kalshi", "id": "KXSP500WHEN-10000-29DEC31"},
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2028", "source": "kalshi", "id": "KXSP500WHEN-10000-28DEC31"},
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2027", "source": "kalshi", "id": "KXSP500WHEN-10000-27DEC31"},
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Jun 30, 2028", "source": "kalshi", "id": "KXSP500WHEN-10000-28JUN30"},
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2026", "source": "kalshi", "id": "KXSP500WHEN-10000-26DEC31"}
 ]
