@@ -444,5 +444,22 @@
       "November 13, 6:00 PM ET"
     ],
     "created_at": "2026-11-13T23:30:19.202334+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/anthropics-valuation-end-of-november-2026",
+    "manifold_url": "https://manifold.markets/Fastcar99/anthropics-valuation-end-of-novembe",
+    "title": "Anthropic\u2019s valuation end of November 2026?",
+    "answers": [
+      "$1.00-$1.25T",
+      "$1.25-$1.50T",
+      "$1.50-$1.75T",
+      "$1.75-$2.00T",
+      "$2.00-$2.25T",
+      "$750B-$1.00T",
+      "$2.25T+",
+      "$500-$750B",
+      "<$500B"
+    ],
+    "created_at": "2026-11-19T01:28:13.497504+00:00"
   }
 ]
