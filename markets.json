@@ -991,5 +991,15 @@
   {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2028", "source": "kalshi", "id": "KXSP500WHEN-10000-28DEC31"},
   {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2027", "source": "kalshi", "id": "KXSP500WHEN-10000-27DEC31"},
   {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Jun 30, 2028", "source": "kalshi", "id": "KXSP500WHEN-10000-28JUN30"},
-  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2026", "source": "kalshi", "id": "KXSP500WHEN-10000-26DEC31"}
+  {"manifold": "when-will-the-sp-500-index-be-above", "answer": "Before Dec 31, 2026", "source": "kalshi", "id": "KXSP500WHEN-10000-26DEC31"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Beau Bayh", "source": "kalshi", "id": "KXGOVNOM-IND-28-BBAY"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Jennifer McCormick", "source": "kalshi", "id": "KXGOVNOM-IND-28-JMCC"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Tom McDermott", "source": "kalshi", "id": "KXGOVNOM-IND-28-TMCD"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "J. D. Ford", "source": "kalshi", "id": "KXGOVNOM-IND-28-JFOR"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Hogsett", "source": "kalshi", "id": "KXGOVNOM-IND-28-JHOG"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Frank Mrvan", "source": "kalshi", "id": "KXGOVNOM-IND-28-FMRV"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Andr\u00e9 Carson", "source": "kalshi", "id": "KXGOVNOM-IND-28-ACAR"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Brandon Sakbun", "source": "kalshi", "id": "KXGOVNOM-IND-28-BSAK"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Jessica Bailey", "source": "kalshi", "id": "KXGOVNOM-IND-28-JBAI"},
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Donnelly", "source": "kalshi", "id": "KXGOVNOM-IND-28-JDON"}
 ]
