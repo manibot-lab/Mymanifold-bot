@@ -1002,5 +1002,6 @@
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Brandon Sakbun", "source": "kalshi", "id": "KXGOVNOM-IND-28-BSAK"},
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Jessica Bailey", "source": "kalshi", "id": "KXGOVNOM-IND-28-JBAI"},
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Donnelly", "source": "kalshi", "id": "KXGOVNOM-IND-28-JDON"},
-  {"manifold": "will-rubio-and-vance-run-for-presid", "source": "kalshi", "id": "KXVANCERUBIORUN-28JAN-REP"}
+  {"manifold": "will-rubio-and-vance-run-for-presid", "source": "kalshi", "id": "KXVANCERUBIORUN-28JAN-REP"},
+  {"manifold": "will-a-dark-horse-win-the-2028-pres", "source": "kalshi", "id": "KXDARKHORSEPRES-28-DH"}
 ]
