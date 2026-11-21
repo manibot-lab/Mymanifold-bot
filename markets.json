@@ -1003,5 +1003,10 @@
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Jessica Bailey", "source": "kalshi", "id": "KXGOVNOM-IND-28-JBAI"},
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Donnelly", "source": "kalshi", "id": "KXGOVNOM-IND-28-JDON"},
   {"manifold": "will-rubio-and-vance-run-for-presid", "source": "kalshi", "id": "KXVANCERUBIORUN-28JAN-REP"},
-  {"manifold": "will-a-dark-horse-win-the-2028-pres", "source": "kalshi", "id": "KXDARKHORSEPRES-28-DH"}
+  {"manifold": "will-a-dark-horse-win-the-2028-pres", "source": "kalshi", "id": "KXDARKHORSEPRES-28-DH"},
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Extreme Fear", "source": "kalshi", "id": "KXFEAR-26DEC04-XFEAR"},
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Fear", "source": "kalshi", "id": "KXFEAR-26DEC04-FEAR"},
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Neutral", "source": "kalshi", "id": "KXFEAR-26DEC04-NEUT"},
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Greed", "source": "kalshi", "id": "KXFEAR-26DEC04-GREE"},
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26DEC04-XGREE"}
 ]
