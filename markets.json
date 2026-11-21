@@ -1001,5 +1001,6 @@
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Andr\u00e9 Carson", "source": "kalshi", "id": "KXGOVNOM-IND-28-ACAR"},
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Brandon Sakbun", "source": "kalshi", "id": "KXGOVNOM-IND-28-BSAK"},
   {"manifold": "indiana-democratic-governor-nominee", "answer": "Jessica Bailey", "source": "kalshi", "id": "KXGOVNOM-IND-28-JBAI"},
-  {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Donnelly", "source": "kalshi", "id": "KXGOVNOM-IND-28-JDON"}
+  {"manifold": "indiana-democratic-governor-nominee", "answer": "Joe Donnelly", "source": "kalshi", "id": "KXGOVNOM-IND-28-JDON"},
+  {"manifold": "will-rubio-and-vance-run-for-presid", "source": "kalshi", "id": "KXVANCERUBIORUN-28JAN-REP"}
 ]
