@@ -461,5 +461,15 @@
       "<$500B"
     ],
     "created_at": "2026-11-19T01:28:13.497504+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/which-party-will-win-the-house-in-2028",
+    "manifold_url": "https://manifold.markets/Fastcar99/which-party-will-win-the-house-in-2-6CAUtUzqp6",
+    "title": "Which party will win the House in 2028?",
+    "answers": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "created_at": "2026-11-21T20:23:15.265872+00:00"
   }
 ]
