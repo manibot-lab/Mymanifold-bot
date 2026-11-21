@@ -1008,5 +1008,11 @@
   {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Fear", "source": "kalshi", "id": "KXFEAR-26DEC04-FEAR"},
   {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Neutral", "source": "kalshi", "id": "KXFEAR-26DEC04-NEUT"},
   {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Greed", "source": "kalshi", "id": "KXFEAR-26DEC04-GREE"},
-  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26DEC04-XGREE"}
+  {"manifold": "fear-greed-index-on-dec-4-2026", "answer": "Extreme Greed", "source": "kalshi", "id": "KXFEAR-26DEC04-XGREE"},
+  {"manifold": "who-will-get-second-place-in-dancin", "answer": "Amber Glenn", "source": "kalshi_event", "id": "KXDWTSRANK-226DEC31", "source_answer": "Amber Glenn"},
+{"manifold": "who-will-get-second-place-in-dancin", "answer": "Connor Wood", "source": "kalshi_event", "id": "KXDWTSRANK-226DEC31", "source_answer": "Connor Wood"},
+{"manifold": "who-will-get-second-place-in-dancin", "answer": "Ezra Frech", "source": "kalshi_event", "id": "KXDWTSRANK-226DEC31", "source_answer": "Ezra Frech"},
+{"manifold": "who-will-get-second-place-in-dancin", "answer": "Maura Higgins", "source": "kalshi_event", "id": "KXDWTSRANK-226DEC31", "source_answer": "Maura Higgins"},
+{"manifold": "who-will-get-second-place-in-dancin", "answer": "Tatyana Ali", "source": "kalshi_event", "id": "KXDWTSRANK-226DEC31", "source_answer": "Tatyana Ali"}
+
 ]
