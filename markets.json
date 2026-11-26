@@ -1033,5 +1033,11 @@
   {"manifold": "democratic-senate-seats-after-2028", "answer": "At least 48", "source": "kalshi", "id": "KXSENATESEATSD-29-48"},
   {"manifold": "democratic-senate-seats-after-2028", "answer": "At least 46", "source": "kalshi", "id": "KXSENATESEATSD-29-46"},
   {"manifold": "democratic-senate-seats-after-2028", "answer": "At least 44", "source": "kalshi", "id": "KXSENATESEATSD-29-44"},
-  {"manifold": "democratic-senate-seats-after-2028", "answer": "At least 42", "source": "kalshi", "id": "KXSENATESEATSD-29-42"}
+  {"manifold": "democratic-senate-seats-after-2028", "answer": "At least 42", "source": "kalshi", "id": "KXSENATESEATSD-29-42"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2028", "source": "kalshi", "id": "KXPNP-32-28JAN01"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2029", "source": "kalshi", "id": "KXPNP-32-29JAN01"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2030", "source": "kalshi", "id": "KXPNP-32-30JAN01"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2035", "source": "kalshi", "id": "KXPNP-32-35JAN01"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2027", "source": "kalshi", "id": "KXPNP-32-27JAN01"},
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2040", "source": "kalshi", "id": "KXPNP-32-40JAN01"}
 ]
