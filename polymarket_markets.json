@@ -687,5 +687,19 @@
       "by December 31, 2026"
     ],
     "created_at": "2026-11-27T23:50:21.404355+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/republican-nomination-odds-leader-on-march-31",
+    "manifold_url": "https://manifold.markets/Fastcar99/republican-nomination-odds-leader-o",
+    "title": "Republican nomination odds leader on March 31?",
+    "answers": [
+      "JD Vance",
+      "Marco Rubio",
+      "Ron DeSantis",
+      "Ted Cruz",
+      "Tucker Carlson",
+      "Glenn Youngkin"
+    ],
+    "created_at": "2026-11-27T23:56:55.583163+00:00"
   }
 ]
