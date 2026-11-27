@@ -674,5 +674,18 @@
       "Banks (D) 0-4%"
     ],
     "created_at": "2026-11-27T23:49:15.123343+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/when-will-bitcoin-hit-100k",
+    "manifold_url": "https://manifold.markets/Fastcar99/when-will-bitcoin-hit-100k",
+    "title": "When will Bitcoin hit $100k?",
+    "answers": [
+      "by December 31, 2027",
+      "by September 30, 2027",
+      "by June 30, 2027",
+      "by March 31, 2027",
+      "by December 31, 2026"
+    ],
+    "created_at": "2026-11-27T23:50:21.404355+00:00"
   }
 ]
