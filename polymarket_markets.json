@@ -597,5 +597,21 @@
       "March 31, 2027"
     ],
     "created_at": "2026-11-27T23:22:34.446593+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/balance-of-power-2028-election",
+    "manifold_url": "https://manifold.markets/Fastcar99/balance-of-power-2028-election",
+    "title": "Balance of Power: 2028 Election",
+    "answers": [
+      "Democratic Trifecta",
+      "R President, D Senate, D House",
+      "D President, D Senate, R House",
+      "R President, D Senate, R House",
+      "Republican Trifecta",
+      "D President, R Senate, D House",
+      "R President, R Senate, D House",
+      "D President, R Senate, R House"
+    ],
+    "created_at": "2026-11-27T23:31:06.350424+00:00"
   }
 ]
