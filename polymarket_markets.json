@@ -656,5 +656,23 @@
       "Ron DeSantis"
     ],
     "created_at": "2026-11-27T23:36:47.210613+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/la-06-house-runoff-margin-of-victory-2026",
+    "manifold_url": "https://manifold.markets/Fastcar99/la06-house-runoff-margin-of-victory",
+    "title": "LA-06 House Runoff Margin of Victory",
+    "answers": [
+      "Miguez (R) 12-16%",
+      "Miguez (R) 8-12%",
+      "Miguez (R) 16-20%",
+      "Miguez (R) 4-8%",
+      "Miguez (R) 0-4%",
+      "Miguez (R) 20-24%",
+      "Miguez (R) 24-28%",
+      "Miguez (R) 28%+",
+      "Banks (D) 4%+",
+      "Banks (D) 0-4%"
+    ],
+    "created_at": "2026-11-27T23:49:15.123343+00:00"
   }
 ]
