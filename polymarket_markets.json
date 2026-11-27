@@ -641,5 +641,20 @@
       "Stephen A. Smith"
     ],
     "created_at": "2026-11-27T23:34:30.943816+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/2028-presidential-odds-leader-on-december-31",
+    "manifold_url": "https://manifold.markets/Fastcar99/2028-presidential-odds-leader-on-de",
+    "title": "2028 presidential odds leader on December 31?",
+    "answers": [
+      "Jon Ossoff",
+      "Marco Rubio",
+      "JD Vance",
+      "Gavin Newsom",
+      "Alexandria Ocasio-Cortez",
+      "Other",
+      "Ron DeSantis"
+    ],
+    "created_at": "2026-11-27T23:36:47.210613+00:00"
   }
 ]
