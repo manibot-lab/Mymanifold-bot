@@ -482,5 +482,23 @@
       "December 31"
     ],
     "created_at": "2026-11-24T08:02:41.033066+00:00"
+  },
+  {
+    "polymarket_url": "https://polymarket.com/event/who-will-announce-presidential-run-before-2028-20260803142755224",
+    "manifold_url": "https://manifold.markets/Fastcar99/who-will-announce-presidential-run",
+    "title": "Who will announce Presidential run before 2028?",
+    "answers": [
+      "Pete Buttigieg",
+      "Mark Kelly",
+      "Andy Beshear",
+      "Ro Khanna",
+      "Ted Cruz",
+      "Rahm Emanuel",
+      "Wes Moore",
+      "J.B. Pritzker",
+      "Ron DeSantis",
+      "Josh Shapiro"
+    ],
+    "created_at": "2026-11-27T23:14:29.848929+00:00"
   }
 ]
