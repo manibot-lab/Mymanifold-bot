@@ -1039,8 +1039,6 @@
   {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2030", "source": "kalshi", "id": "KXPNP-32-30JAN01"},
   {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2035", "source": "kalshi", "id": "KXPNP-32-35JAN01"},
   {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2027", "source": "kalshi", "id": "KXPNP-32-27JAN01"},
-  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2040", "source": "kalshi", "id": "KXPNP-32-40JAN01"},
-  {"manifold": "how-will-p-vs-np-be-resolved-before-y2PNUNzCS9", "answer": "P \u2260 NP", "source": "kalshi", "id": "KXPNPDIR-28-NEQ"},
-  {"manifold": "how-will-p-vs-np-be-resolved-before-y2PNUNzCS9", "answer": "Not resolved before 2028", "source": "kalshi", "id": "KXPNPDIR-28-NONE"},
-  {"manifold": "how-will-p-vs-np-be-resolved-before-y2PNUNzCS9", "answer": "P = NP", "source": "kalshi", "id": "KXPNPDIR-28-EQ"}
+  {"manifold": "when-will-p-vs-np-be-resolved", "answer": "Before 2040", "source": "kalshi", "id": "KXPNP-32-40JAN01"}
+
 ]
